@@ -18,11 +18,11 @@ import java.util.List;
  */
 public class Rep_TCF_BOW extends Rep {
 
-    public Rep_TCF_BOW( Tokenizer tokenizer, Lexicon lex,
-            int maxSize, int minCount
-           ) {
-        super(tokenizer, lex, maxSize, minCount);
-    }
+    public Rep_TCF_BOW(Tokenizer tokenizer, Lexicon lex, int maxSize, int minCount) {
+		super(tokenizer, lex, maxSize, minCount);
+	}
+
+	
 
     @Override
     public int getDimension() {
