@@ -23,15 +23,18 @@ public class Rep_TFCL_BOW2G extends Rep {
 
     static List<String> catsToKeep = new ArrayList<>(Arrays.asList(
             "n", "v", "adj", "adv", "advneg", "clneg"));
+    /*static List<String> lemmasToIgnore = new ArrayList<>(Arrays.asList(
+            "être", "avoir", "avec", "bref", "alors", "tous", "cela",
+            "falloir", "avant", "bientôt", "d'ailleurs"));*/
     static List<String> lemmasToIgnore = new ArrayList<>(Arrays.asList(
             "être", "avoir", "avec", "bref", "alors", "tous", "cela",
-            "falloir", "avant", "bientôt", "d'ailleurs"));
+            "falloir", "avant", "bientôt", "d'ailleurs","dire","table","menu","produire","même"));//dico perso 1
 
     Tokenizer tokenizer;
     Lexicon lex;
 
-    public Rep_TFCL_BOW2G(int maxSize, int minCount,
-            Tokenizer tokenizer, Lexicon lex) {
+    public Rep_TFCL_BOW2G(
+            Tokenizer tokenizer, Lexicon lex,int maxSize, int minCount) {
     	//super(maxSize, minCount);
         super(tokenizer, lex, maxSize, minCount);
         this.tokenizer = tokenizer;

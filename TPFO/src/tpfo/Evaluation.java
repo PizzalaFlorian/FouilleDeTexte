@@ -5,6 +5,9 @@
  */
 package tpfo;
 
+import java.io.FileNotFoundException;
+import java.io.PrintWriter;
+import java.io.UnsupportedEncodingException;
 import java.util.Arrays;
 
 /**
@@ -30,10 +33,12 @@ public class Evaluation {
         Arrays.fill(fn, 0);
     }
 
-    public void evaluate(Model model, Dataset dataset) {
+    public void evaluate(Model model, Dataset dataset) throws FileNotFoundException, UnsupportedEncodingException {
         reset();
         ClassLabel prediction;
         dataSize = dataset.size();
+        PrintWriter writer = new PrintWriter("/home/florian/workspace/fouilleTexte/TPFO/resultats/eval.txt", "UTF-8");
+        
         for (Review r : dataset) {
             prediction = model.classify(r);
             if (prediction == r.getLabel()) {
@@ -48,11 +53,18 @@ public class Evaluation {
                 countIncorrect(prediction, r.getLabel());
 //                System.out.println(r);
 //                System.out.println(model.toString(r));
+                writer.println(r);
+                writer.println("Res: " + prediction);
+                writer.println(model.toString(r));
             }
-            System.out.println(r);
-            System.out.println("Res: " + prediction);
-            System.out.println(model.toString(r));
+            //System.out.println(r);
+            //System.out.println("Res: " + prediction);
+            //System.out.println(model.toString(r));
+            //writer.println(r);
+            //writer.println("Res: " + prediction);
+            //writer.println(model.toString(r));
         }
+        writer.close();
     }
 
     private void countCorrect(ClassLabel label) {
