@@ -36,9 +36,9 @@ public class FT {
     public static void main(String[] args) throws IOException {
         // 
         //String lexPathname = "../../resources/lefff-3.4.mlex";
-        String lexPathname ="/home/florian/workspace/fouilleTexte/TPFO/resources/lefff-3.4.mlex";
+        String lexPathname ="D:/workspace/FouilleDeTexte/FouilleDeTexte/TPFO/resources/lefff-3.4.mlex";
         //String corpusPathname = "../../Corpus/corpus.all14";
-        String corpusPathname = "/home/florian/workspace/fouilleTexte/TPFO/corpus/corpus.all14";
+        String corpusPathname = "D:/workspace/FouilleDeTexte/FouilleDeTexte/TPFO/corpus/corpus.all20";
         if (args.length == 2) {
             lexPathname = args[0];
             corpusPathname = args[1];
@@ -55,7 +55,7 @@ public class FT {
         Dataset testset = dataset.split(0.80f);
 
         // Créer une représentation
-        Rep rep = new Rep_TCF_BOW(tokenizer, lex, 70, 5);
+        Rep rep = new Rep_TCF_BOW(tokenizer, lex, 500, 50);
 //        Rep rep = new Rep_TCFL_BOW(tokenizer, lex, 700, 5);
 //        Rep rep = new Rep_TCFL_BOW2G(tokenizer, lex, 700, 5);
         // initialiser la représentation (l'ensemble de ses traits)
