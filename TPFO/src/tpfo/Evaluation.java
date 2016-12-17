@@ -37,7 +37,7 @@ public class Evaluation {
         reset();
         ClassLabel prediction;
         dataSize = dataset.size();
-        PrintWriter writer = new PrintWriter("/home/florian/workspace/fouilleTexte/TPFO/resultats/eval.txt", "UTF-8");
+        PrintWriter writer = new PrintWriter("D:/workspace/FouilleDeTexte/FouilleDeTexte/TPFO/resultats/eval.txt", "UTF-8");
         
         for (Review r : dataset) {
             prediction = model.classify(r);

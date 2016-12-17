@@ -1,0 +1,1249 @@
+
+
+L accueil dans ce restaurant est déplorable ... On se fait quasiment chahuter par des serveuses surmenées. Les plate arrivent tardivement mais sont corrects- a noter de bonnes salades. A eviter si vous cherchez un accueil chaleureux et un service personnalisé. 
+note=3,  label=NEUT
+Res: POS
+[être:1,est:1,null:1,bon:1,mais:1,plat:1,restaurant:1,faire:1,]
+
+
+Restaurant qui se veut raffiné, mais n'égale pas les autres restos moins cher. Le filet de sandre garanti sans arêtes en contenait au moins une dizaine. Les légumes servis avec ne sont pas assez nombreux
+note=3,  label=NEUT
+Res: NEG
+[être:1,null:1,pas:1,ne:1,mais:1,restaurant:1,servir:1,ne_être:1,cher:1,être_pas:1,autre:1,]
+
+
+Mis à part la terrasse qui est sympa et bien situé.
+On est allé de mauvaise surprise en mauvaise surprise.
+Accueil glacial, repas surement congelé à la base, dessert immangeable, café imbuvable et clou du spectacle, en voulant payé séparément ils ont "involontairement" rajouté 10 euros sur la note (on avait seulement divisé la note en deux)
+Bref fuyez cet endroit
+note=1,  label=NEG
+Res: POS
+[est:1,null:1,bien:1,sur:1,aller:1,dessert:1,sympa:1,]
+
+
+Ce soir, un vendredi, en tête à tête avec ma fille plutôt qu'un fast-food on se décide pour Patacrêpe. Chaîne de restauration qui comme son nom l'indique propose une carte de galettes et de crêpes.
+Première impression agréable, cadre sympathique, tables et chaises façon crêperie bretonne, manque sans doute un poil de chaleur mais absolument correct et propre.
+Accueil dynamique et courtois; prise de commande rapide et service tout autant.
+Une carte plus que fournie, tant salé que sucré et même quelques originalités comme des burgers blinis et des wraps crêpe.
+Pour la petite une galette carbonara et pour moi un wrap western country...la galette rien à dire quant à mon wrap le poulet mériterai d'être mariné plutôt que pané et un peu moins de salade verte, en accompagnement elle est suffisante pas utile d'en mettre aussi dans le wrap.
+Pas de dessert, suffisamment copieux pour un dîner.
+Je me souviens néanmoins avoir prix, lors d'un repas entre amis, une crêpe sucré mousse au Nutella appelée Fascinante est pour les amoureux de cette pâte à tartiner je ne peut que la recommander vivement.
+En conclusion, le rapport prix, produit, cadre et accueil est tout à fait honnête.
+note=4,  label=POS
+Res: NEUT
+[être:1,est:1,null:1,pas:1,ne:1,mais:1,tout:1,plus:1,faire:1,peu:1,même:1,prendre:1,pouvoir:1,petit:1,cadre:1,agréable:1,dessert:1,correct:1,]
+
+
+Peut on encore s améliorer quant on est le Roi d une spécialisé telle que la Bouillabaisse.la réponse est oui ,chez Michel on fait de pas de chichi on vous présente le poisson que vous aller retrouver dans votre assiette,la barcasse qui sert d étal à l entrée du restaurant regorge de poisson frais pour la bouillabaisse qui est préparé minute et découpée devant vous ,galinette(Grondin)vives,rascasse,saint pierre....un vrai régal, le personnel est chaleureux,tous sent bon Marseille et la Provence.Merci Michel et à très bientôt
+note=5,  label=POS
+Res: NEG
+[est:1,null:1,pas:1,très:1,bon:1,tout:1,restaurant:1,faire:1,aller:1,pouvoir:1,servir:1,personnel:1,entrer:1,]
+
+
+Venu en shopping sur Bordeaux, nous avons pas étaient déçu du tous... accueil parfait !!! Repas super !! 
+note=5,  label=POS
+Res: NEG
+[être:1,null:1,pas:1,tout:1,sur:1,]
+
+
+Lors de nos déplacements à Lyon nous avons déjà eu l'occasion de déjeuner dans cette brasserie. Nous avons toujours été satisfaits.
+Cette fois, déception. Verre au pied ébréché. Caquelons dans lesquels étaient servis les escargots ébréchés (tous)
+Un des convives a dû réclamer son plat, les autres étant servis. Il avait été de toute évidence oublié. Le plat arrive, ce n'est pas le bon, il repart.
+J'ai commandé un plat avec purée, j'ai eu des frites qui sont reparties.
+Et la cerise sur le gâteau, nous avions à peine terminé les cafés que le serveur nous a demandé : "vous payez par chèque ou carte" ? nous n'avions pas encore demandé la note ! Trop déçus pour mettre une note moyenne au service
+Nous attendons cela d'une brasserie de type chaîne franchisée, mais pas d'une brasserie qui a un patron aussi illustre, surtout à ce prix
+Nous n'y reviendrons pas, il y a tellement de choix sur Lyon 
+note=3,  label=NEUT
+Res: NEG
+[être:1,est:1,null:1,pas:1,ne:1,bon:1,mais:1,plat:1,tout:1,sur:1,trop:1,ne_pas:1,servir:1,ne_est:1,est_pas:1,autre:1,attendre:1,]
+
+
+Immense déception après ce déjeuner du 5 mai. Nous avions gardé un souvenir extraordinaire de la cuisine proposée, de la variété des suggestions et de la qualité des produits. Malheureusement cette époque a vécu et Monsieur Ducasse vit sur sa renommée. Nous avons été contraints de prendre le menu IMPOSE. Le minuscule morceau de chou-fleur avec quelques grains de caviar nageant dans un bouillon n'avait rien de gastronomique, de même pour le blanc de bar étuvé (trop cuit) accompagné de pois chiches, aucun intérêt. Seul plaisir : la vue éblouissante. En conclusion repas à oublier
+note=3,  label=NEUT
+Res: NEG
+[être:1,null:1,ne:1,sur:1,cuisine:1,même:1,prendre:1,trop:1,voir:1,après:1,]
+
+
+Très étonnée de certains commentaires à se demander... Pour ma part jamais déçu! Accueil chaleureux, salles spacieuses, aux petits soins sans en faire trop. Repas parfait, après un cocktail, j'ai pris en entrée des escargots ensuite aile de raie à la crème avec riz et petits légumes plat juste délicieux et pour finir mousse au citron avec coulis de fruits rouge et morceaux de meringues, un régal... mon mari a pris des moules frites au chorizo plat très bien fournis il s'est également régalé! Déjà hâte d'y retourner!
+note=5,  label=POS
+Res: NEG
+[est:1,null:1,très:1,plat:1,faire:1,bien:1,prendre:1,trop:1,petit:1,après:1,entrer:1,]
+
+
+Points positifs :
++ Les produits sont de qualité, les viandes particulièrement.
++ Les desserts sont vraiment bons et à des prix raisonnables.
++ Les pommes de terre en accompagnements étaient vraiment bonnes.
+
+Points négatifs :
+- L'ensemble est assez cher pour le contenu dans l'assiette et le résultat en bouche.
+- Nous avions commandé du canard en deux façons (le magret et le confit) et nous n'avons eu au final que le magret (pour le même prix), sans que personne ne nous le précise. A la fin nous l'avons signalé à la patronne qui nous a indiqué que c'était le 1er jour du serveur. Malheureusement, nous avons pu confirmer avec ce dernier qu'il travaillait ici depuis plusieurs mois. Un mensonge un peu décevant pour cacher une erreur de table.
+- Les goûts et les sauces annoncés n'étaient pas toujours au rendez-vous.
+- Les photos présentées sur le(s) site(s) internet ne reflétaient pas du tout la salle dans laquelle nous nous trouvions, peut-être en travaux, mais en tout cas très très sobre, voire sinistre.
+note=3,  label=NEUT
+Res: NEG
+[être:1,est:1,null:1,pas:1,ne:1,très:1,bon:1,mais:1,tout:1,sur:1,peu:1,même:1,vraiment:1,pouvoir:1,ne_être:1,cher:1,être_pas:1,]
+
+
+Un super resto dans un environnement romantique. La place de la pierre est une placette valentinoise, elle permet de manger tranquillement en terrasse. La carte reste modeste mais les plats sont délicieux. Personnellement les gratinées de ravioles sont un délice mais il faut attendre une bonne vingtaine de minutes pour être servi puisqu'elles sont faites à la commande. A vous de voir.
+
+Visité en septembre 2016
+note=5,  label=POS
+Res: NEG
+[être:1,est:1,null:1,bon:1,mais:1,plat:1,faire:1,manger:1,voir:1,servir:1,attendre:1,]
+
+
+Service approximatif, qualité moyenne, manifestement le parent pauvre des quatre brasseries de Monsieur Paul!
+note=2,  label=NEG
+Res: POS
+[null:1,]
+
+
+Suite à la réservation faite, nous étions attendus à la réception et accueillis par notre nom, dirigé vers l’étage du "Bistro", et dirigé vers la table que nous avions choisie.Ambiance feutrée , les tables sont suffisamment éloignées afin d'avoir une conversation tranquille.Nous avons pris : Terrine de foie gras au 4 épices parfumée au chouchen (excellent même si le plat pouvait se passer du chouchen),Filet de canette rôti, mousseline de patate douce et coriandre à la coco, croustillant aux épinards ,Fromage travaillé et verrine crème prise Tonka, coulis de fruits et sorbet maison et pour mon épouse; Dacquoise chocolat au lait , noisettes caramélisées, glace vanille. Ce fut un régal pour nos papilles. il ne faut pas être pressé pour déguster ce repas, cela vaut le déplacement
+note=5,  label=POS
+Res: NEG
+[être:1,null:1,pas:1,ne:1,plat:1,faire:1,même:1,prendre:1,ne_pas:1,pouvoir:1,excellent:1,attendre:1,passer:1,]
+
+
+Conseillé par un ami nous nous sommes rendus à 3 chez Michel. Accueil cordial mais très théâtral au final. On nous annonce de suite une bouillabaisse copieuse tant mieux. Et bien quelle déception ! 4 poissons pour 2 personnes certes découpés en filets et sans arrêtes mais je pense qu'au grand maximum nous avions 130gr de poissons au final. Et oui vous avez bien lu ! Soupe correcte mais déjà vu mieux. Sur le site de Michel c'est annoncé 65€ et cela se transforme en 75€. En conclusion c'est bon mais on paie l'étoile, le serveur avec une veste et des galons mais pas l'assiette. 80% de la clientèle doit être de passage donc le patron s'en tape littéralement nous pensons. Déçu déçu déçu.
+note=2,  label=NEG
+Res: NEUT
+[être:1,est:1,null:1,pas:1,très:1,bon:1,mais:1,bien:1,sur:1,voir:1,grand:1,correct:1,donc:1,]
+
+
+Un dimanche soir à Valence, entre frères et amis. Pas beaucoup de restaurants ouverts, mais des membres de notre petit groupe de 5 connaissent "Chez Grand Mère". 
+On est arrive vers 20h30, expliquant qu'un membre du groupe va arriver vers 21h. C'est alors qu'un membre du personnel de service nous explique que normalement le dimanche les cuisines ferment à 21h et que vous comprenez, ils ont travaillé toute la semaine et que de fermer la cuisine plus tôt le dimanche c'est normal !!!...!!! 
+Un ton désagréable du type : "vous avez de la chance, je suis de bonne humeur, on va quand même vous servir, mais dépêchez vous de commander ... " et on nous l'a rappelé à plusieurs reprises. 
+On a vu plusieurs clients se faire refuser alors qu'il n'était pas encore 21h ! 
+
+Quel dommage .... Pourtant la cuisine était délicieuse, bravo au chef. Le cadre et la décoration du restaurant sont aussi très bien. Aussi, l'un des membres du personnel de service était, contrairement au autres, très agréable, souriant, et professionnel. 
+
+Bref, bonne cuisine, service expéditif qui nous a laissé un souvenir amer. 
+
+Dommage
+note=3,  label=NEUT
+Res: NEG
+[être:1,est:1,null:1,pas:1,ne:1,très:1,bon:1,mais:1,tout:1,plus:1,restaurant:1,faire:1,bien:1,cuisine:1,même:1,aller:1,voir:1,servir:1,petit:1,cadre:1,agréable:1,ne_être:1,être_pas:1,personnel:1,autre:1,beaucoup:1,]
+
+
+Point fort :
+Restaurant sympa, Service attentionné, personnel très serviable.
+Bonne cuisine,bon rapport qualité prix mais seulement au niveau des menus.
+La patronne très sympathique vient discuter quelques minutes avec nous pour savoir si tout ce passe bien.
+
+Point faible : 
+Menu limité : au niveau des plats (un seul plat sans viande : et de plus du maquereau) et comme je ne mange pas de viande je n'ai pas eu le choix et également au niveau des desserts.
+
+Une expérience sympa à refaire si il propose autre chose que du maquereau.
+note=4,  label=POS
+Res: NEUT
+[null:1,pas:1,ne:1,très:1,bon:1,mais:1,plat:1,tout:1,plus:1,restaurant:1,bien:1,cuisine:1,manger:1,ne_pas:1,sympa:1,personnel:1,autre:1,]
+
+
+Au vu des prix on s'attendait à de l'excellence......la vue au top c'est très agréable par contre au niveau nourriture ce n'est pas top on a été déçu c'est assez simple.....asperges en entrée aussi foie gras qui n'était pas top niveau goût....du pigeon pour la viande ça pouvait aller.....2 desserts la glace ça va mais le gâteau au chocolat trop fort en chocolat nous n'étions pas les seuls à nous en plaindre.....une fois pas deux nous n'y retournons jamais
+note=3,  label=NEUT
+Res: NEG
+[être:1,est:1,null:1,pas:1,ne:1,très:1,mais:1,aller:1,trop:1,voir:1,pouvoir:1,agréable:1,ne_être:1,ne_est:1,être_pas:1,est_pas:1,entrer:1,attendre:1,]
+
+Dire que c.est mauvais est exagéré... Dire que c.est bon tout autant .. En fait ça se passe ! C.est l.abattage : 2 services le soir, serveurs débordés, plats moyens, les tables sont si proches que l.on discute avec ses voisins ... Enfin s.ils sont sympa ... Bref aucune intimité ... Perso je n.y retournerai pas
+note=3,  label=NEUT
+Res: NEG
+[être:1,est:1,null:1,pas:1,bon:1,plat:1,tout:1,faire:1,sympa:1,]
+
+
+Un accueil chaleureux, une décoration soignée, une menu du midi raisonnable pour une bonne expérience culinaire... Bravo pour cette brasserie qui n'est pas tombée dans la facilité de l'attrape touriste avec des moules fadasses toutes l'année.
+note=4,  label=POS
+Res: NEG
+[est:1,null:1,pas:1,ne:1,bon:1,tout:1,ne_est:1,est_pas:1,]
+
+
+Le décore , les personnel, les plats , la musique , tout tout est incroyablement beau ! On y reviendrais sans hésiter ! La qualifie du mieux et à la hauteur de sa réputation et au delà même !
+note=5,  label=POS
+Res: NEG
+[est:1,null:1,plat:1,tout:1,même:1,personnel:1,]
+
+
+Le cadre est très sympathique l ambiance aussi mais c'est beaucoup trop cher pour ce que l'on mange !!! Une entrée pour deux personnes, deux hamburger, deux coca ( coupé à l'eau) à volonté. Attention plus de 70 euro !!!! Franchement c'est un fast-food aux prix d' un bon resto traditionnelle !!!!!
+note=1,  label=NEG
+Res: NEUT
+[est:1,null:1,très:1,bon:1,mais:1,plus:1,manger:1,trop:1,cadre:1,cher:1,entrer:1,beaucoup:1,]
+
+
+Salle exigue et bondee, service certe rapide mais nous biusculant a chaque passage , je voulais gouter ces fameux falafel ( boulettes de farine de pois chiches) , c est fait mais je n y retournerai pas !
+note=2,  label=NEG
+Res: NEUT
+[est:1,null:1,pas:1,mais:1,faire:1,]
+
+
+Diner à, ou plutôt dans, la tour Eiffel, en VIP, ce c'est pas banal, et de là-haut, vous êtes dans les nuages (au sens figuré) pour annoncer ou faire naitre ce qu'il vous semble bon ;
+Bon, justement, dans l'assiette, mais juste bon, fin, mais non divin ; et c'est pourtant cela que l'on attendait aussi d'un voyage au nom de Jules Vernes ;
+Mais c'était très bien quand même : je le conseille mais resa 3 mois à l'avance et préparer quand même .... la carte gold pour l'addition ....
+note=4,  label=POS
+Res: NEUT
+[être:1,est:1,null:1,pas:1,très:1,bon:1,mais:1,faire:1,bien:1,même:1,est_pas:1,être_très:1,attendre:1,]
+
+
+Sur les conseils avisés de personnes aimant la table de ce restaurant nous n'avions pas hésité à nous y rendre ! et malgré un cadre sympathique et un accueil plutôt souriant , nous n'avons pas spécialement appréciés les plats proposés.
+Le camembert rôti sans plus
+La tomate mozzarella pas comme ailleurs et c'est vrai ! un point très positif pour le gustatif !.
+Le tartare de boeuf préparé est fait avec de la mayonnaise et rien n'est noté dans la carte à ce sujet ! quelle horreur !
+Les sardines sans plus !
+Seuls les Rib's de cochon noir ont trouvé grâce à nos yeux.
+Les frites servies étaient froides, ont donc été renvoyées, mais n'ont pas été mangées car insipide !
+Il est fort dommage de ne pas prendre en compte une qualité de pommes de terre et une cuisson parfaite, quant on propose un plat à 20 € !
+Le café gourmand à 12 € a été laissé pratiquement en entier car peu goûtu !
+Dans l'ensemble très moyen et cela m'a énormément surprise à la vue des tables bien pleines ! ou alors nous n'avons pas fait le bon choix de plats ! 
+note=3,  label=NEUT
+Res: NEG
+[être:1,est:1,null:1,pas:1,ne:1,très:1,bon:1,mais:1,plat:1,plus:1,restaurant:1,faire:1,bien:1,sur:1,peu:1,manger:1,prendre:1,voir:1,ne_pas:1,servir:1,cadre:1,ne_est:1,donc:1,]
+
+
+Cuisine de cantine (et encore il y a nombre de cantines plus correctes que cette brasserie). Service très lent. Oublions les brochettes de saumon trop grillées au dehors et crues dedans, flanquées d'une sauce graisseuse. Oublions le fromage insipide (où sont les bons produits fermiers de la région?). Oublions ce piètre restaurant. Dommage, c'est un bel emplacement en front de mer.
+note=1,  label=NEG
+Res: POS
+[être:1,est:1,null:1,très:1,bon:1,plus:1,restaurant:1,cuisine:1,trop:1,correct:1,]
+
+
+Bonne chaine de restaurant.
+
+Nous y sommes toujours allés sans réserver et toujours de la place, l'équipe se démène pour satisfaire ses clients. Ils sont très agréables et attentifs à notre bien être.
+
+Les repas sont variés et les formules adaptées en fonction de de l'appétit mais aussi des bourses.
+
+Les desserts sont colossaux et clôture bien le repas.
+
+Nous n'avons encore jamais été déçue.
+note=4,  label=POS
+Res: NEG
+[être:1,null:1,ne:1,très:1,mais:1,restaurant:1,bien:1,aller:1,agréable:1,être_très:1,]
+
+
+Sur le site il est précisé : "tenue correcte exigée" en arrivant nous avons pris l'ascenseur avec des gens en bermudas et tongs... et dans la salle il y en avait d'autres en short et survêtement. 
+D'autre part, je trouve inadmissible que dans un restaurant de ce niveau il n'y a plus de papier toilette, c'est moi qui l'ai signalé ! 
+Service limite aimable à l'exception du sommelier.
+note=4,  label=POS
+Res: NEG
+[est:1,null:1,ne:1,plus:1,restaurant:1,sur:1,prendre:1,autre:1,correct:1,]
+
+
+Les plats sont variés ; du poisson, de la viande, en passant par des burgers et des pizzas. Un petit spectacle pendant que vous sirotez un cocktail. Tout ça sur le thème de la piraterie. La qualité est au rendez-vous et le prix raisonnable. Un petit bémol pour aujourd'hui : mon fils a mangé une pizza tiède.
+note=5,  label=POS
+Res: NEG
+[être:1,est:1,null:1,plat:1,tout:1,sur:1,manger:1,petit:1,]
+
+
+Petit chablis, petit plateau, petit dessert...tout en excellence! En terrasse avec une vue comme sur un bateau de croisière! Expérience à renouveler! Service un peu froid au démarrage, mais le diesel s'est rapidement mis en route! 😉 A très bientôt!!!!!
+note=5,  label=POS
+Res: NEUT
+[est:1,null:1,très:1,mais:1,tout:1,sur:1,peu:1,voir:1,petit:1,dessert:1,]
+
+
+Un accueil et un service efficaces, mais très sympas. Une nourriture standardisée, de qualité, mais on n'est pas dans le gastronomique. Environnement jeune et dynamique, voire branché.
+note=3,  label=NEUT
+Res: NEG
+[est:1,null:1,pas:1,ne:1,très:1,mais:1,sympa:1,ne_est:1,est_pas:1,]
+
+
+Si ce n'était le cadre, la carte est classique et peut être un peu chère, mais l'ambiance est extraordinaire. L'hôtel a un super rapport qualité/prix
+note=4,  label=POS
+Res: NEG
+[être:1,est:1,null:1,ne:1,mais:1,peu:1,pouvoir:1,cadre:1,ne_être:1,cher:1,]
+
+Dès notre arrivée personnel assez désagréable. Si ils sont débordés le client ne doit pas en subir leur humeurs. Odeur de transpiration assez forte. Nous n'y avons pas mangé alors que l'hotel nous le recommandait vivement! Situé dans une rue très touristique d'où sans doute le manque d'hamabilité.
+note=2,  label=NEG
+Res: POS
+[être:1,null:1,pas:1,ne:1,très:1,manger:1,ne_pas:1,personnel:1,]
+
+
+Si on a le courage de faire la queue et de supporter "l'alpagage" en pleine rue on ne sera pas déçu par le goût. On prend notre commande dans la file d'attente (nous avons pris à emporter pour manger dans le parc à côté). J'ai pris les Falafels tradi et c'était vraiment super bon pour pas cher.
+note=4,  label=POS
+Res: NEG
+[être:1,null:1,pas:1,ne:1,bon:1,faire:1,manger:1,prendre:1,vraiment:1,ne_être:1,cher:1,être_pas:1,]
+
+
+Pas faute d'avoir voulu essayer un de ces sandwichs dont la notoriété dépasse l'entendement. Premièrement, une file d'attente interminable, je me suis dit qu'au moins ça valait le coup, mais non, il vaut mieux suivre la file d'attente de la CAF ou encore celle de l'ANPE, on évitera l'empoisonnement. J'ai déjà demandé au rabatteur à deux reprises une version végétalienne...
+note=1,  label=NEG
+Res: NEUT
+[être:1,null:1,pas:1,mais:1,]
+
+
+Restaurant conseillé par des gens du coin. Bonne cuisine et ambiance sympathique. La musique était peut-être un peu forte par contre.
+note=4,  label=POS
+Res: NEG
+[être:1,null:1,restaurant:1,peu:1,cuisine:1,]
+
+Nous avons voulu faire découvrir la gastronomie lyonnaise à notre famille; Quelle déception à la sortie. 
+A part la bonne situation en plein centre de Lyon tout est décevant : l'accueil et le service tout d'abord mais alors que dire des plats sans saveurs en petite quantité !!! 
+Très décevant, à éviter
+note=2,  label=NEG
+Res: POS
+[est:1,null:1,très:1,bon:1,mais:1,plat:1,tout:1,faire:1,petit:1,]
+
+
+Menu du lundi soir (36€) quelconque y compris les desserts (impression des restes du Dimanche précédent...) 
+note=3,  label=NEUT
+Res: POS
+[null:1,]
+
+
+Une formule du jour d'un bon rapport qualité prix même si le dessert annoncé riz au lait au caramel ne correspondait pas à celui servi. Il manquait le caramel. Curieux. Un thon snacké tout à fait correct. Et un service efficace et décontracté. Il manque un brin d'originalité mais cela est dans l'ensemble tout à fait convenable 
+note=3,  label=NEUT
+Res: NEG
+[est:1,null:1,pas:1,ne:1,bon:1,mais:1,tout:1,faire:1,même:1,servir:1,dessert:1,correct:1,]
+
+
+Le repas en terrasse est agréable, à l'intérieur un peu moins car salle petite et
+bruyante. Déco trop chargée..ce qui laisse penser que les objets ne sont pas dépoussiérés tous les jours.. Accueil du personnel très moyen. Les plats sont copieux et la cuisine familiale.
+
+Visité en août 2015
+note=3,  label=NEUT
+Res: POS
+[être:1,est:1,null:1,pas:1,ne:1,très:1,plat:1,tout:1,peu:1,cuisine:1,trop:1,petit:1,agréable:1,ne_être:1,être_pas:1,personnel:1,]
+
+
+Nous avons choisi ce restaurant pour changer du beef house.
+Quelle erreur !!!! Sets de table en simili cuir gris clair élimés, c'est portant pas grand chose à changer !!!
+En entrée nous avions pris des moules farcies, énormément de chapelure bien grasse sur une pauvre moule, on cherche encore la persillade.
+Et pour suivre petits suppions en persillade quelle déception suppions panés ??? Et très gras aussi, saupoudré d'ail en poudre. Heureusement la terrasse est superbe et le service rapide.
+note=1,  label=NEG
+Res: POS
+[est:1,null:1,pas:1,très:1,restaurant:1,bien:1,sur:1,prendre:1,petit:1,grand:1,entrer:1,]
+
+
+Nous avons mangé un midi dans ce restaurant en couple.
+Assiettes copieuses et tarif moyenne haute.
+Serveurs agréables, cadre sympa malgré le tram à proximité quand on mange en terrasse.
+Je mets la note de 3/5 car nous avons trouvé un cheveux dans le plat de mon conjoint. Après réclamation à la serveuse, le plat a été changé. Offrir les cafés aurait été apprécié ...
+note=3,  label=NEUT
+Res: POS
+[être:1,null:1,plat:1,restaurant:1,manger:1,cadre:1,agréable:1,sympa:1,après:1,]
+
+
+On y fait la queue de longues minutes devant la boutique pour savourer le saint graal : savoureux, peu cher et copieux, l'As du falafel propose le meilleur rapport qualité prix de Paris.
+note=5,  label=POS
+Res: NEG
+[null:1,faire:1,peu:1,cher:1,]
+
+
+Décider d'aller dans ce restaurant se résume à jouer au loto, une fois le service sera convenable et l'autre infecte.
+
+
+Tout commence par l’accueil qui fut froid et interminable.
+
+Dans un second temps nous nous sommes fait installer à une table à coté de la quelle se trouver une famille avec des enfants en bas-âge (pleure,crie,mouvements) rien de dramatique certes. Après demande au serveur de changer de place une réponse clair : NON le restaurant été vide ! CHERCHEZ L'ERREUR !
+
+Vins rouge servi froid, moule desséchés !
+
+Au moment de payer, aucun mot du serveur "Tout c'est biens passer ?" Il connaissait déjà la réponse.
+
+Nous avons étaient patient jusqu'au bout, nous n'avons fait aucune remarque désobligeante durant le service, aucune attention pour le client.
+
+Si vous voulez passer un bon moment agréable, passer votre route. 
+note=1,  label=NEG
+Res: POS
+[être:1,est:1,null:1,ne:1,bon:1,tout:1,restaurant:1,faire:1,aller:1,servir:1,agréable:1,après:1,passer:1,]
+
+
+Nous avons l'habitude d'y aller en famille et d'y emmener notre famille quand ils sont de passage dans la région. En revanche notre dernière visite était un peu brouillon. Il manquait une place à notre table du coup nous étions très serrés, nous n'avons pas eu de dessous de verre nous devions sans cesse réclamer les sauces autant de choses que nous n'avons pas eu l'habitude de connaître dans ce restaurant. Mis à part cela j'apprécie toujours autant cette adresse.
+note=4,  label=POS
+Res: NEUT
+[être:1,null:1,pas:1,ne:1,très:1,restaurant:1,peu:1,aller:1,ne_pas:1,être_très:1,]
+
+
+Nous nous sommes rendu la semaine dernière dans ce restaurant en famille ou effectivement nous avons été très bien accueillis.
+Le service est relativement rapide et efficace néanmoins la qualité des mets laisse un peu à désirer.
+Les plats ne sont pas représentés avec décorations, le poisson est juste tiède, et pour couronner le tout vers la fin du service on vous enlève votre pré-dessert sans même vous demander votre permission.
+Il est vrai que ce monsieur qui effectuait notre service vers la fin, était pressé de rentrer chez lui.
+
+En clair, vous payez votre place 250€ pour la vue qui est magistrale, mais aussi pour le nom DUCASSE qui pour ma part à l'heure actuelle,
+est plus un homme d'affaires qui cherche à faire croître sa réputation ainsi que son portefeuille, plutôt qu'un très grand chef cuisinier comme beaucoup le diront.
+
+Alors Monsieur ducasse, revenez en cuisine et remotivez vos troupes car pour ce prix là on s'attend plutôt à une cuisine digne de Gilles Goujon ou bien celle de votre poulain Maximin qui font eux un travail remarquable.
+note=3,  label=NEUT
+Res: NEG
+[être:1,est:1,null:1,pas:1,ne:1,très:1,mais:1,plat:1,tout:1,plus:1,restaurant:1,faire:1,bien:1,peu:1,cuisine:1,même:1,voir:1,ne_être:1,être_pas:1,grand:1,être_très:1,attendre:1,beaucoup:1,]
+
+
+Des plats dans le vent plutôt bien réalisés. 
+La déco du Mama shelter. Toujours dans le coup mais jusque quand ?
+Une équipe adorable et aux petits soins même quand ils sont dans la galère a cause d'un groupe de 70 personnes. 
+Bravo a vous. Vous avez bien géré.
+note=5,  label=POS
+Res: NEG
+[être:1,null:1,mais:1,plat:1,bien:1,même:1,petit:1,]
+
+
+Nous avons mangé plusieurs fois à la Taverne du Maître Kanter depuis 2005 et, s'il y a eu des hauts et des bas, notre dernière visite nous fait croire que ce restaurant, faisant partie d'une chaîne, a changé de direction. En effet, à notre table un samedi soir (restaurant moitié vide à 20h30), les plats ne sont pas arrivés ni en même temps, ni à une température correcte. Quant aux plats eux-mêmes, ils étaient trop simples, ou, à notre goût pas suffisamment raffinés pour un restaurant qui se veut de grande qualité. Visant les origines du restaurant, j'ai pris une choucroute garnie paysanne et jamais je n'ai été si déçu. L'assiette était froide en arrivant à notre table - et quand je dis "froid," c'est que les pommes de terres étaient froides au toucher, donc en dessous de la température ambiante. Une fois que le serveur l'a fait réchauffer, j'ai pu constater que si les saucisses n'étaient pas mauvaises, le chou sortait d'un sachet. Il était translucide comme à la cantine d'école. Du coup, j'en ai repris chez un traiteur le lendemain pour combler mon envie...
+
+Si la TMK souhaite se distancier de la cuisine alsacienne, elle n'en est pas loin. Le fruits de mer restent excellents (au moins la dernière fois que nous en avons pris), mais les autres plats traditionnels ont été délaissés en faveur d'une cuisine plus type bistrot de centre-ville. C'est dommage.
+
+Voilà. Pour un repas qui a coûté une certaine somme, je pense que nous aurions mieux fait d'aller à un des bistrots d'à côté dont on peut compter sur la qualité globale du repas. 
+note=3,  label=NEUT
+Res: NEG
+[être:1,est:1,null:1,pas:1,ne:1,mais:1,plat:1,plus:1,restaurant:1,faire:1,sur:1,cuisine:1,même:1,manger:1,prendre:1,aller:1,trop:1,pouvoir:1,ne_être:1,excellent:1,ne_est:1,être_pas:1,est_pas:1,autre:1,grand:1,correct:1,donc:1,]
+
+
+Bouillabaisse délicieuse, poissons cuits à point, accueil par Paul le patron et son équipe très sympathique ; seuls les desserts ne sont pas à la hauteur mais Paul ne les conseille pas, on est là pour manger des produits de la mer cuisinés à la demande, et pour ça on n'est pas déçu !
+note=5,  label=POS
+Res: NEG
+[être:1,est:1,null:1,pas:1,ne:1,très:1,mais:1,manger:1,ne_être:1,ne_est:1,être_pas:1,est_pas:1,]
+
+
+Nous avons réservé avec des amis afin d'aller dîner un soir. 
+Nous avons été accueilli très chaleureusement par une serveuse qui nous a laissée le choix de l'installation en salle ou en terrasse. La cuisine proposée est assez simple. Cependant, il y a très peu de choix pour les personnes ne mangeant pas de viande.
+Je recommande cet endroit pour prendre un verre, mais pas pour dîner.
+note=3,  label=NEUT
+Res: NEG
+[être:1,est:1,null:1,pas:1,ne:1,très:1,mais:1,peu:1,cuisine:1,manger:1,prendre:1,aller:1,]
+
+
+Un service vraiment au top !
+Une carte bien variée, j'ai mangé un foie de veau qui était très bon mais pas de super surprise .... Les prix sont un peu élevé, le prix du menu quand à lui est correct !
+Une bonne expérience et un bon moment passé dans ce bel établissement ! 
+note=4,  label=POS
+Res: NEUT
+[être:1,est:1,null:1,pas:1,très:1,bon:1,mais:1,bien:1,peu:1,manger:1,vraiment:1,très_bon:1,être_très:1,passer:1,correct:1,]
+
+
+Ptit restaurant avec du charme. L'endroit est magnifique, le cadre est splendide et typique du sud. 
+Les produits sont cuisinés avec envie et plaisir. Quel délice !
+Je conseille de réserver avant d'y aller notamment en période estivale et en week-end. N'ayant pas réservés, nous avons eu le choix qu'entre quelques plats de la carte, dommage !
+
+Visité en juin 2016
+note=3,  label=NEUT
+Res: POS
+[être:1,est:1,null:1,pas:1,ne:1,plat:1,restaurant:1,aller:1,ne_pas:1,petit:1,cadre:1,]
+
+
+Régis Bruno et Alexis nous ont accueilli chaleureusement et avec leurs beaux sourires pour nous inviter à déguster un menu délicieux goûteux dans un cadre ambiant oú peinture et architecture nous réchauffe !!! Bravo aux cuisiniers et aux garçons !!! Bonne continuation !! Laurence et Monique ... On reviendra !!!!! Le rendez vous est pris !!!😉😉😉
+note=5,  label=POS
+Res: NEG
+[est:1,null:1,prendre:1,cadre:1,]
+
+
+Une super déco, le cadre est vraiment soigné. Par contre il y a des tensions entre les serveurs et cela se ressent pour les clients. Un climat pas très agréable qui donne envie de vite partir... 
+note=3,  label=NEUT
+Res: POS
+[est:1,null:1,pas:1,très:1,vraiment:1,cadre:1,agréable:1,]
+
+
+Dîner entre amis, le besoin de manger une vraie cuisine française. On est dans le classique français, l' image d' Epinal de la bistronomie parisienne. Produits frais, carte classique mais goûtue. On vient avec plaisir déguster les plats traditionnels français, mais l'on n'est jamais déçu! Le service est efficace et sympathique. A refaire, et avec plaisir!
+note=5,  label=POS
+Res: NEUT
+[est:1,null:1,ne:1,mais:1,plat:1,cuisine:1,manger:1,ne_est:1,]
+
+
+La firme dirigee par la famille Trigano a donc choisi un grand nom de la cuisine francaise pour etalonner ses restaurants. bon choix car la qualite des restaurants n'etait pas la meme d'une ville a l'autre. la je suis a lyon, salade cesar (filets de poulets panes servis a part) et cocktail gin pommes.. moins de 30 euros honorable. cependant: la connaissance de Guy Savoy pourrait permettre plus de fantaisie dans la carte (un comble pour le mama) en utilisant produits et recettes locales. ici a lyon par exemple: Cervelle de canuts et brochettes de poulets tandoori, ou encore lentilles du puy et saumon gravlax... Sincerement c'est pas mal, mais je m'ennuie deja a table, j'attends du Mama plus de petillance...
+note=3,  label=NEUT
+Res: NEG
+[être:1,est:1,null:1,pas:1,ne:1,bon:1,mais:1,plus:1,cuisine:1,ne_pas:1,pouvoir:1,servir:1,est_pas:1,grand:1,attendre:1,donc:1,]
+
+c'était une très bonne adresse mais la fréquentation touriste a fait baisser la qualité des plats, dernier repas un peu raté, restez sur le classique, entrecôte et poulet en sauce et n'ayez pas peur des calories
+note=3,  label=NEUT
+Res: POS
+[être:1,null:1,pas:1,ne:1,très:1,bon:1,mais:1,plat:1,faire:1,sur:1,peu:1,ne_pas:1,très_bon:1,être_très:1,]
+
+
+Restaurant visité un dimanche midi en famille (8 pers.).
+Premièrement je tiens à préciser que la cuisine est très bonne, les portions généreuses, les produits paraissent frais et les plats ont l'air faits maison (sur à 99,99%) donc de ce coté la c'est très positif !
+Le bémol concerne le service...mis à part un serveur, les autres ne sont pas très aimables, on à l'impression que chaque chose que l'on leur demande est de trop...ils ne prennent pas la peine de servir les plats devant chaque personne (ils se contentent de rester en bout de table et de dire de faire passer...) alors qu'ils pouvaient aisément aller et venir autours de la table et qu'il n'y avait pas grand monde sur la terrasse...
+En bref un restaurant à la cuisine savoureuse, de qualité et authentique mais gâché par un service médiocre.
+Le rapport qualité/prix y est correct aux vues de la qualité et des quantités (je ne prends pas le service en compte).
+
+Visité en août 2016
+note=3,  label=NEUT
+Res: NEG
+[être:1,est:1,null:1,pas:1,ne:1,très:1,bon:1,mais:1,plat:1,restaurant:1,faire:1,sur:1,cuisine:1,prendre:1,aller:1,trop:1,voir:1,ne_pas:1,pouvoir:1,servir:1,très_bon:1,ne_être:1,être_pas:1,autre:1,grand:1,passer:1,correct:1,donc:1,]
+
+
+Ambiance sympa d'une vieille brasserie parisienne. Service parfait, table dressée avec nappe et serviette en tissu. Carte très complète. Plats copieux , service rapide par contre ca ne sent pas le fait maison la texture de la purée ressemble à du réchauffé. Dommage.
+note=3,  label=NEUT
+Res: NEG
+[null:1,pas:1,ne:1,très:1,faire:1,sympa:1,]
+
+
+J'ai quitté un restaurant sans avoir pris le repas que j'avais prévu pour la première fois hier.Il y avait un manque d'effectif du coup l'attente était juste insupportable.
+On s'est mis à table vers 20h10 et nous sommes partis deux heures après en ayant juste mangé un plat qui était plutôt bon.Avec des enfants c'était pas possible. 
+note=3,  label=NEUT
+Res: POS
+[être:1,est:1,null:1,pas:1,bon:1,plat:1,restaurant:1,manger:1,prendre:1,être_pas:1,après:1,]
+
+
+
+Accueil chaleureux et sécurisé, très belle endroit typiquement oriental, cuisine excellente, les points négatif ( la musique trop forte, peu de luminosité ), prix abordable, à l'étage pub avec chicha
+note=5,  label=POS
+Res: NEUT
+[null:1,très:1,peu:1,cuisine:1,trop:1,excellent:1,]
+
+
+Sans surprise... Service moyen mais qualité et fraicheur sont au rendez vous.
+Je recommande sans hésitation 
+note=4,  label=POS
+Res: NEG
+[être:1,null:1,mais:1,]
+
+
+Un ami qui habite le coin a voulu nous faire découvrir la vraie bouillabaisse. Nous voilà donc à six chez Michel un samedi soir. L'accueil est correct, sans plus, le patron nous demande "Bon alors vous allez la manger la bouillabaisse?", que répondre puisqu'ils ne font pratiquement que ça. Comme nous n'avons pas pris d'entrées, on nous a informés que nous allions attendre 40 minutes, bon, si c'est le temps qu'il faut, ok ! Le patron nous a montré les poissons frais qu'ils allaient utiliser, très beaux effectivement. Puis il a donc fallu attendre et enfin trois serveurs sont arrivés et ont préparé le plat devant nous : découpe du poisson, bouillon dans les assiettes etc.... C'était bon mais franchement le prix est exorbitant :72 euros par personne, ce n'est quand même qu'une soupe de poissons! Un bon TToro du Pays Basque peut aussi être excellent et nous n'avons jamais payé ce prix là même dans un très bon restaurant! Bref, un peu déçus tout de même et l'accueil plus chaleureux semble plutôt réservé aux habitués (je ne sais pas comment on peut se payer un tel restaurant trop souvent d'ailleurs)! Evidemment il y a les photos de toutes les célébrités qui ont mangé là, alors ceci explique peut-être cela!!!
+note=3,  label=NEUT
+Res: NEG
+[être:1,est:1,null:1,pas:1,ne:1,très:1,bon:1,mais:1,plat:1,tout:1,plus:1,restaurant:1,faire:1,peu:1,même:1,manger:1,prendre:1,aller:1,trop:1,ne_pas:1,pouvoir:1,très_bon:1,excellent:1,ne_est:1,entrer:1,attendre:1,correct:1,donc:1,]
+Après avoir essayé toutes les variantes de ce plat méridional incontournable sur Marseille, je peux vous assurer que celle que vous mangerez chez Michel ne vous décevra pas. Les poissons sont frais et magnifiques, le service irréprochable et le cadre sympathique. Certes le prix est un des plus chers de la ville, mais la qualité des produits se maie à leur juste valeur. C'est l'essentiel !
+note=5,  label=POS
+Res: NEG
+[être:1,est:1,null:1,pas:1,ne:1,mais:1,plat:1,tout:1,plus:1,sur:1,manger:1,pouvoir:1,cadre:1,cher:1,après:1,]
+
+
+Une carte réduite centrée sur leur mets phare : la bouillabaisse, bonne et copieuse à base de poissons très frais (vives, saint pierre, gallinettes) qu'on vous montre avant la cuisson et servis en filets, un poil trop cuits.
+Le personnel est très serviable : ayant fait remarquer que mon assiette froide rafraichissait très vite ma soupe, on me l' a changée aussitôt.
+Le prix est malgré tout élevé (75 euros pour une soupe, des croutons, des patates et un peu de poisson....) La vue sur mer est partielle, cachée par la circulation, vu qu'on est du mauvais côté de la rue, le décor est ordinaire et daté. Mais si vous appréciez la bouillabaisse, c'est sans doute un restaurant essentiel.
+note=3,  label=NEUT
+Res: NEG
+[est:1,null:1,très:1,bon:1,mais:1,tout:1,restaurant:1,faire:1,sur:1,peu:1,trop:1,voir:1,servir:1,personnel:1,]
+
+
+Un magnifique restaurant au panorama inoubliable, mais quelle déception dans l'assiette.. par ailleurs la clientele souvent étrangère ne respecte pas le dress code, demandé.. c'est dommage et indigne de ce magnifique et unique restaurant
+note=3,  label=NEUT
+Res: NEG
+[est:1,null:1,pas:1,ne:1,mais:1,restaurant:1,]
+
+
+Sur le repas rien a redire, dîner au top ! Par contre ... Le service laisse a désirer ! Le serveur est perdu et ne connait pas la carte. Le pire reste a venir : l'hôtesse d'accueil du restaurant ! Très hautaine, elle nous a prit de haut . Une question : pour qui se prend t elle ? Il y a des gestes et des "manières" qui ne se font pas devant des clients mademoiselle ! Comme lever les yeux au ciel quand on affirme que nous ne voulions pas de dessert ou nous dire que notre table a été annulée avec un air pitoyable ... sinon il y a la formation service restauration a Lyon si vous le souhaitez ... Bref déçu de l'accueil ce qui est dommage.
+note=2,  label=NEG
+Res: POS
+[être:1,est:1,null:1,pas:1,ne:1,très:1,restaurant:1,faire:1,sur:1,prendre:1,ne_pas:1,dessert:1,]
+
+
+un choix nombreux et des habitués du quartier qui viennent s'y approvisionner : un signe qui ne trompe pas, meilleur que les autres dans la même rue mais beaucoup d'attente.
+note=5,  label=POS
+Res: NEUT
+[null:1,pas:1,ne:1,mais:1,même:1,autre:1,beaucoup:1,]
+
+
+L'accueil ! Oups j'ai cru être arrivée au cirque !...
+Les costumes des employés sont a pouffer de rire en tergal, trop grand, et d'une couleur ?...Burk !...
+
+Sur la table trônait depuis je ne sais combien de temps deux timbales, une de mayonnaise maison et l'autre de rouille...et bien dite moi ! où est l'hygiène dans tout cela ?
+Je ne voulais pas de Bouillabaisse mais le "Chef" de l'établissement ma fait savoir que c'était beaucoup mieux de déguster la bouillabaisse a 2 et je le comprend à 75 euros l'assiette se serait dommage...
+
+Bref l'établissement est vieux, tout est vieux , aucun effort sur la décoration, la cuisine n'est pas bonne et tout est extrêmement cher.
+note=2,  label=NEG
+Res: NEUT
+[être:1,est:1,null:1,pas:1,ne:1,bon:1,mais:1,tout:1,faire:1,bien:1,sur:1,cuisine:1,trop:1,cher:1,ne_est:1,est_pas:1,grand:1,beaucoup:1,]
+
+
+Spectacle au top! Deco comme dans pirate des Caraïbes chez Disney énorme salle de jeux àvec un jeton pour que enfant est un ptit souvenir . Nous avons demandé du Paîn il n'est jamais arrivé domage...
+note=3,  label=NEUT
+Res: POS
+[est:1,null:1,ne:1,petit:1,ne_est:1,]
+
+
+Après 2 passages dans ce restaurants, je le conseille fortement. Les hachis parmentier sont très bien garnis. Les produits sont de qualité et le service très agréable (et avec le sourire). Les desserts ne sont pas à oublier ! Le fondant au chocolat était au rendez-vous. Bref, que d'excuses pour retourner à la belle excuse ! :)
+note=5,  label=POS
+Res: NEG
+[être:1,null:1,pas:1,ne:1,très:1,bien:1,agréable:1,ne_être:1,être_pas:1,être_très:1,après:1,]
+
+
+Malgré une terrasse ensoleillée, et des serveurs agréables, ce restaurant arrive quand même à decevoir, tant la cuisine y est mauvaise. Parmentier tout simplement préparé à l'avance à la chaîne (toute maison soit elle) et servi ni cuit, ni gratiné, accompagné d'une salade bas de gamme à la vinaigrette industrielle. Attrape touristes dans toute sa splendeur.
+note=1,  label=NEG
+Res: POS
+[être:1,est:1,null:1,tout:1,restaurant:1,cuisine:1,même:1,servir:1,agréable:1,]
+
+
+pécialiste de coquillage, mais il y a aussi des plats traditionnels. la terrasse agréable, le service correct, le plat pas mauvais, coquillage frais, c'est un bon choix pour un déjeuner de la journée shopping. mais une question, pourquoi les serveurs n'apporte pas l'addition?
+note=4,  label=POS
+Res: NEUT
+[est:1,null:1,pas:1,ne:1,bon:1,mais:1,plat:1,agréable:1,correct:1,]
+
+
+Plus d'un an après notre premier repas chez ce restaurateur, nous avons à nouveau apprécié sa cuisine, son service, son accueil et la sympathie du personnel. 
+Le coté 'un peu rétro' de la salle nous a changé des sempiternelles tables modernes carrées aux nappes grises ou marrons que l'on voit trop souvent.
+Quatre apéritifs généreusement servis, suivis d'une bouteille de blanc provençal, premier prix, agréable en bouche et de très bonne tenue. 
+Deux suppions sautés à l'ail en entrée à se partager à quatre, suivis de deux bouillabaisses et de deux soles meunières dignes d'un restaurant gastronomique de haut vol. Le tout à un prix conforme à la qualité de l'ensemble.
+Quel dommage de ne pas avoir fini ce moment de grand plaisir avec les millefeuilles qui nous ont manqué pour attribuer la note de 5/5.
+Je recommande vivement ce restaurant. Nous y retournerons, 'SVP Patron' ne tombez pas en panne de millefeuilles ! 
+note=4,  label=POS
+Res: NEG
+[null:1,pas:1,ne:1,très:1,bon:1,tout:1,plus:1,restaurant:1,peu:1,cuisine:1,trop:1,voir:1,ne_pas:1,servir:1,très_bon:1,agréable:1,personnel:1,grand:1,après:1,entrer:1,]
+
+
+Jus d Orange presse 6.50 euros pour un verre a pied de petite taille d un jus d orange sans pulpe (presse la veille ? Boutrille). Une honte, passez votre chemin
+note=1,  label=NEG
+Res: POS
+[null:1,petit:1,passer:1,]
+
+
+Un ami marseillais nous ayant décrit ce restaurant comme ayant été, dans le passé, une véritable institution gastronomique marseillaise. Mesdames et Messieurs, ne tentez jamais cette expérience et si vous circulez sur la corniche, passez surtout votre chemin !
+Cadre : quelconque. Service : inexistant (ici, à votre arrivée, après cinq bonnes minutes d'attente, on vous désigne du doigt la table que vous aviez réservée en vous disant "c'est la table là bas !". On oublie de vous servir l'eau que vous aviez commandée. Enfin, personne ne croit utile durant le repas de vous servir l'eau et le vin (onéreux) que vous avez commandés !
+
+Cuisine : médiocre et très éloignée de la présentation élogieuse qu'en fait, avant votre commande, le propriétaire, flanqué de son tee-shirt et de sa casquette de pêcheur. 
+Comme en ces lieux, on n'a peur de rien, l'on nous a, d'abord, présenté dans une torpille les quatre poissons qui nous seraient servis dans notre bouillabaisse et décrit précisément comment les choses allaient se dérouler : premier service : bouillon avec croutons, puis présentation des poissons entiers cuits, enfin, découpe des poissons devant nous et deuxième service de bouillon.
+
+En réalité, une fois la commande passée pour trois bouillabaisses à 63 euros l'unité, nous avons eu droit dans le même temps au bouillon, aux (petits) filets de poissons disposés dans nos trois assiettes respectives et accompagnés de pommes terre safranées, aux croutons et à la rouille ainsi qu'à l'aïoli.
+
+Montant de l'addition : 150 Euros
+
+Cher payé pour une prestation aussi calamiteuse, à l'image du patron qui a eu le plus grand mal à nous dire au revoir et aux serveurs qui manquent autant de classe que de professionnalisme (et ce n'est pas peu dire). Nous sommes rentrés à l'hôtel balonnés et mal en point!
+
+Que rajouter à ce triste constat : que l'on se demande comment cet établissement pitoyable peut encore figurer au Guide Michelin, après avoir perdu son étoile.
+note=1,  label=NEG
+Res: POS
+[être:1,est:1,null:1,pas:1,ne:1,très:1,bon:1,plus:1,restaurant:1,faire:1,sur:1,peu:1,cuisine:1,même:1,aller:1,pouvoir:1,servir:1,petit:1,cadre:1,ne_est:1,est_pas:1,grand:1,après:1,passer:1,]
+
+
+Accueil assez sympathique jusqu'à l'arrivée du patron (de Michel ...) qui plombe l'ambiance par un comportement hautain et désinvolte mais se rattrape de temps en temps en faisant un petit sourire lui donnant finalement un côté moins pire ... Service assez peu attentif qu'il faut rappeler régulièrement.
+
+La bouillabaisse y est gouteuse et les poissons (qu'il présente avant) ne sont n'y d'élevage ni d'ailleurs, du bio pure comme on l'aime, mais à 65 Euros par personne pour ce repas, c'est trop cher !
+
+Les rapports humains combinés au prix font que nous n'y retournerons pas avec un peu de regret tout de même.
+note=3,  label=NEUT
+Res: NEG
+[être:1,est:1,null:1,pas:1,ne:1,mais:1,tout:1,faire:1,peu:1,même:1,trop:1,petit:1,ne_être:1,cher:1,]
+
+
+moins bien qu'avec Adamsky, bon mais sans plus ,dommage les chefs sont très important dans un restaurant et font vraiment la différence, accueil très mauvais à la réception, à la limite vous me faite suer à revoir absolument! 
+note=3,  label=NEUT
+Res: POS
+[être:1,null:1,très:1,bon:1,mais:1,plus:1,restaurant:1,faire:1,bien:1,vraiment:1,être_très:1,]
+
+
+Super décoration et service excellent. Par contre très cher pour ce qu'il y a dans l'assiette. (18 euros une salade verte et un peu de poulet!). L'arnaque vient surtout du prix du parking. Venant de l'extérieur nous avons voulu garer notre voiture a l'intérieur du parking du restaurant. Il nous en a coûté 10 EUROS pour 3 heures de parking plus chère qu'une nuit dans un des parkings du centre de Lyon alors que rappelons-le nous sommes dans le 7eme de Lyon ! Par conséquent nous ne reviendrons pas dans ce lieu il y a tellement d'autres bons restaurants sur Lyon avec des parkings et un rapport qualité prix bien meilleurs.
+note=2,  label=NEG
+Res: POS
+[être:1,null:1,pas:1,ne:1,très:1,bon:1,plus:1,restaurant:1,bien:1,sur:1,peu:1,cher:1,excellent:1,autre:1,]
+
+
+Nous avons pris des cocktails, ils étaient parfaits et vu le cadre on peut dire que les prix étaient raisonnables 
+note=4,  label=POS
+Res: NEUT
+[être:1,null:1,prendre:1,voir:1,pouvoir:1,cadre:1,]
+
+
+Dernière ligne droite de notre escapade parisienne, je cherche un établissement près de la gare du Nord, où la carte n’est pas surfaite, chère et touristique, ce n’est pas gagné, me dis-je… une petite recherche et je tombe sur « Le Terminus Nord », à deux pas de la gare éponyme. Brasserie réputée s’il en est, faisant partie du réseau « Esprit Brasserie » qui rassemble non seulement de grands noms parisiens (le Bœuf sur le Toit, la Coupole, etc.) mais également des établissements à Nancy, Reims, Toulouse, Versailles ou encore à Bruxelles. Le cadre est superbe, d’époque, il date de 1925, subtile mélange d’Art nouveau et d’Art déco, on s’attend à y croiser Maurice Chevalier ou encore Joséphine Baker tout droit sortie de la « Revue » des Folies-Bergères. Le service est impeccable, des Maîtres d’Hôtel, des sommeliers, des chefs de rang, des serveurs, tout le monde est au petit soin pour vous. La plupart de mes petits camarades opte pour un menu, je préfère de loin la carte car je sais que s’y trouvent des incontournables qui vont flatter mes papilles gustatives (sourire gourmand). En entrée, je reste dans le grand classique, douze gros escargots de Bourgogne marinés au Chablis… Mmmmmhhh ! En plat, je craque pour une des spécialités de la maison, à savoir le poêlon de Ris de veau aux Morilles et légumes verts, les saveurs sont au rendez-vous, je craque, je fonds, je me liquéfie… La prochaine fois, ce seront des œufs « en Meurette » et ensuite, une bouillabaisse du Terminus Nord… Je confirme l’opinion de la maison, le Terminus Nord, c’est une véritable invitation à entrer dans Paris par la porte des gourmands… Un grand bravo à Jean-Philippe Bourgueil et à son équipe, on se reverra, promis !
+note=5,  label=POS
+Res: NEG
+[être:1,est:1,null:1,pas:1,mais:1,plat:1,tout:1,faire:1,sur:1,aller:1,petit:1,cadre:1,cher:1,est_pas:1,grand:1,entrer:1,attendre:1,]
+
+
+C est bien Les burgers sont bon et très gros. Les serveurs sont assez présent. Il y a tout de même énormément de monde, difficile pour eux d être plus présent. En revanche ca reste très chère pour des burgers et une cuisine simpliste. Pas mal
+note=3,  label=NEUT
+Res: NEG
+[être:1,est:1,null:1,pas:1,très:1,bon:1,tout:1,plus:1,bien:1,cuisine:1,même:1,cher:1,]
+
+
+Ambiance brasserie parisienne avec ses cotes sympas(style très parisien, fruits de mer et plats vie cuisinés) et inconvénients ( bruyant quand plein, cher pour la qualité et l'absence de travail sur les plats...).
+note=3,  label=NEUT
+Res: NEG
+[null:1,très:1,plat:1,sur:1,cher:1,sympa:1,]
+
+
+Nous n'avons pas retrouvé le caractère "fait maison". Cuisine sans saveur. Ravioles pas terribles, grossières. Hachis Parmentier qui baigne dans le jus. Accompagnements qui font industriels. Personnel à peine agréable. Grosse déception pour ce restaurant qui se veut chaleureux. Le cadre est très sympa.
+
+Visité en novembre 2015
+note=2,  label=NEG
+Res: POS
+[est:1,null:1,pas:1,ne:1,très:1,restaurant:1,faire:1,cuisine:1,ne_pas:1,cadre:1,agréable:1,sympa:1,personnel:1,]
+
+
+Rien d'exceptionnel niveau plat, la Deco (décoration de nos grands mères ) est sympas, ça change des restos classiques. 
+A faire au moins une fois !
+
+Visité en novembre 2015
+note=3,  label=NEUT
+Res: POS
+[est:1,null:1,plat:1,faire:1,sympa:1,grand:1,]
+
+
+Le charme de l'endroit en revient plus à monsieur Gustave Eiffel qu'à monsieur Alain Ducasse. Le lieu est éblouissant mais la cuisine est décevante et hors de prix !
+Plats servis tièdes, sans explication ( un maître d'hôtel a dû retourner en cuisine pour se renseigner sur ce que sont les mogettes ... ), des desserts que les clients ne finissent pas, des vins indiqués sur la carte mais indisponibles; NE MéRITE PAS SON ETOILE !
+note=3,  label=NEUT
+Res: NEG
+[être:1,est:1,null:1,pas:1,ne:1,mais:1,plus:1,sur:1,cuisine:1,servir:1,]
+
+
+Le concept est génial surtout pour les enfants. Les plats sont copieux et plutot bons. Mais je trouve que ça reste un peu cher. Rien à redire sur le service tres professionnel, à l'ecoute et tres sympathique. Un peu bruyant les jours de spectacle mais cela fait partie du concept.
+note=4,  label=POS
+Res: NEUT
+[être:1,est:1,null:1,bon:1,mais:1,plat:1,faire:1,sur:1,peu:1,cher:1,]
+
+
+beau cadre avec ses couleurs de brasserie, je trouve qu'il manque un de convivialitée mais bon les mecs sont au boulot rien de grave 
+bon pour les plats ils sont bon sans plus 
+vrai crêpes suzette de plus en plus rare mais bon 
+je pourrai y retourner mais ce n'est pas un coup de coeur 
+note=3,  label=NEUT
+Res: NEG
+[être:1,est:1,null:1,pas:1,ne:1,bon:1,mais:1,plat:1,plus:1,pouvoir:1,cadre:1,ne_est:1,est_pas:1,]
+
+
+Service efficace mais sympathique. Menu à 26€ avec tous les plats de la carte proposée au choix (un sur coût éventuel appliqué sur les plats signalés). Le choix est donc très varié et les plats vraiment très copieux pour un menu. Salades très bien garnies et des viandes servies avec une ratatouille provençale et des rates grillées. La cuisson est adaptée aux mets. Les saveurs sont assez fines. La terrasse ombragée et calme sur cette place piétonne est très agréable. Le camenbert rôti et les oeufs cocotte sont des entrées savoureuses mais bien nourissantes si l'envie vous en dit. Les salades sont parfaites et la sauce douce.
+La soupe de nectarine à la menthe en dessert apporte beaucoup de fraîcheur après un bon repas mais le vacherin est aussi très subtil.
+
+Visité en août 2016
+note=5,  label=POS
+Res: NEG
+[être:1,est:1,null:1,très:1,bon:1,mais:1,plat:1,tout:1,bien:1,sur:1,vraiment:1,servir:1,agréable:1,dessert:1,après:1,entrer:1,donc:1,beaucoup:1,]
+
+
+Vraiment rien de terrible à part la déco Se la joue un peu les gars là bas On mange beaucoup mieux et moins cher dans le quartier d'odysseum
+note=1,  label=NEG
+Res: NEUT
+[null:1,peu:1,manger:1,vraiment:1,cher:1,beaucoup:1,]
+
+
+lorsque l'on sort de la gare du Nord, ce n'est pas un problème d'y accéder car c'est en face, par contre lorsque l'on est dans Paris c'est plus difficile car le quartier, pourtant carrefour européen, est d'un accés compliqué.la mairie de Paris complique de plus en plus la circulation de ce quartier et les taxis ont du mal à y accéder.
+Enfin revenons au restaurant.
+A pris où j'habite, lorsque j'ai envie de manger des huitres c'est là que cela se passe.
+Pourquoi, ? tout d'abord je suis normand et je suis de St Vaast La Hougue, le pays des huitres et au Terminus Nord toute l'année les huitres sont excellentes, les crustacés aussi.Alors que dans beaucoup d'autres brasseries,c'est de qualité inégale.
+Le seul reproche que je ferais c'est que le pain de seigle est trop sec à mon goût
+ensuite il y a tous les plats de brasserie et là on se régale...
+Hier soir nous n'avons pris que des huitres et nous nous sommes faits plaisir avec le magnifique Baba au rhum.Super.
+je n'ai pas parlé du personnel mais cela commence par l'accueil téléphonique où vous pouvez choisir votre table.c'est sympa car suivant le nombre d'invités que vous avez ,vous pouvez organisé votre table.
+Ensuite il y a l'accueil du maitre d'hôtel qui va vraiment tout mettre en œuvre pour que vous passiez un bon moment. exprimez vos désirs, tout sera mis en œuvre pour vous donner satisfaction. Vraiment impressionnant de délicatesse et en plus le personnel de salle en fait de même.
+Belle maison, Belle équipe;bravo.
+note=5,  label=POS
+Res: NEG
+[être:1,est:1,null:1,pas:1,ne:1,bon:1,mais:1,plat:1,tout:1,plus:1,restaurant:1,faire:1,même:1,manger:1,prendre:1,aller:1,trop:1,ne_pas:1,vraiment:1,pouvoir:1,sympa:1,excellent:1,ne_est:1,personnel:1,est_pas:1,autre:1,passer:1,beaucoup:1,]
+
+
+restaurant sympa nous avons bien manger , mais le service très désagréable ! une serveuse a la limite de l'insulte car nous avons eu du retard et nous sommes parti trop tard du restaurant (22h30)
+
+Visité en août 2016
+note=2,  label=NEG
+Res: POS
+[être:1,null:1,très:1,mais:1,restaurant:1,bien:1,manger:1,trop:1,sympa:1,]
+
+
+Habitué de cette brasserie lors de nos visite au Havre, disons trois fois par an, petite déception cette fois-ci. D'habitude les bigorneaux sont excellent, ils étaient un peu secs, toujours bien assaisonnés mais trop cuits. Arrivage du mois d'août ou bien surveillance aléatoire ? Servis sur la glace, la part est minuscule, là aussi on avait été habitués à mieux (la part 9,80 quand même). Les bigorneaux sont en vente chez les poissonniers à environ 10/12 euros le kilo. La demi San Pel est comme partout, 4,20, le verre de Muscadet 3,90 (excellent). En revanche, la raie était aussi assez sèche peut de goût, servie chichement (14,90). Donc baisse de qualité et de satisfaction pour des clients qui ont constaté l'écart d'une fois sur l'autre. Disons que le mois d'août dans une région touristique n'est peut-être pas idéale...
+note=3,  label=NEUT
+Res: NEG
+[être:1,est:1,null:1,pas:1,ne:1,mais:1,bien:1,sur:1,peu:1,même:1,trop:1,pouvoir:1,servir:1,petit:1,excellent:1,ne_est:1,donc:1,]
+
+
+Une très bonne adresse. Très bon fallafel, rapidement servi et pas trop cher. Sa réputation n'est pas usurpée.
+note=4,  label=POS
+Res: NEG
+[est:1,null:1,pas:1,ne:1,très:1,bon:1,trop:1,servir:1,très_bon:1,cher:1,ne_est:1,est_pas:1,]
+
+
+C est vrai ce n est pas donné mais ça vaut le coup. De toute façon une bouillabaisse pas chère ne peut pas être bonne car les produits dont on a besoin pour la faire sont chers. Inutile d aller ailleurs la meilleure c est chez Michel.
+note=5,  label=POS
+Res: NEG
+[être:1,est:1,null:1,pas:1,ne:1,bon:1,mais:1,tout:1,faire:1,aller:1,pouvoir:1,cher:1,est_pas:1,]
+
+
+Super deco, super show, parfait avec des enfants..... maintenant.... c est l usine... énormément de tables et repas assez chers sans grande saveur.... à vous de voir mais ne vous attendez pas à bien manger pour pas cher....
+note=3,  label=NEUT
+Res: NEG
+[est:1,null:1,pas:1,ne:1,mais:1,bien:1,manger:1,voir:1,cher:1,grand:1,attendre:1,]
+
+
+Bonne cuisine, bon accueil. Par contre, le soir où nous y sommes allés plusieurs plats indiqués sur la carte n'étaient plus dispos. Dommage ! A refaire malgré tout. Cadre agréable.
+note=3,  label=NEUT
+Res: POS
+[être:1,null:1,ne:1,bon:1,plat:1,tout:1,plus:1,sur:1,cuisine:1,aller:1,cadre:1,agréable:1,ne_être:1,]
+
+
+Nous avons été bien accueillis. Bouillabaisse pour tous et satisfaction pour tout le monde. Nous voulions manger une bouillabaisse digne de ce nom et la réputation de ce restaurant nous a amenés à réserver. Les poissons "exposés" à l'entrée bougeaient encore, signe de grande fraicheur. Repas délicieux. De l'extérieur, la salle semble banale mais au contraire, elle est spacieuse, jolies tables. Une propreté exemplaire.
+note=5,  label=POS
+Res: NEG
+[être:1,est:1,null:1,mais:1,tout:1,restaurant:1,bien:1,manger:1,grand:1,entrer:1,]
+
+
+Nous sommes venus à deux, plats et desserts du jour. Plat : De la dinde qui baignait dans la crème, vraiment pas bon, nous n'avons pas fini nos plats. Dessert : Soupe de melon, dur à rater donc on ne peut pas dire que ça rattrape la cuisine du plat ...
+note=2,  label=NEG
+Res: NEUT
+[être:1,null:1,pas:1,ne:1,bon:1,plat:1,cuisine:1,ne_pas:1,vraiment:1,pouvoir:1,dessert:1,donc:1,]
+
+
+Très pratique pour un bon déjeuner entres amis .
+Cuisine Rapide, précise, comme les autres brasseries du groupe Bocuse. Carte coût élevé.
+Bruit en salle pénible, quel dommage ! 
+note=3,  label=NEUT
+Res: NEG
+[null:1,très:1,bon:1,cuisine:1,autre:1,entrer:1,]
+
+
+Les points positifs:
+- le cadre
+- les crêpes convenables
+Les points négatifs:
+- le service assez long
+- les prix plutôt élevés ( au regard de la qualité)
+- les serveurs peu agréables
+Bref un bilan mitigé..
+note=3,  label=NEUT
+Res: POS
+[null:1,peu:1,cadre:1,agréable:1,]
+
+
+Nous avons découvert cette adresse il y a 1 an avec le menu unique..... c'était parfait avec un rapport qualité prix intéressant pour une cuisine inventive et des goûts très équilibrés. Aujourd'hui, on teste le menu à 44,50 euros (il y a un menu à 31 euros ), bien mais un peu cher.... maquis de dorade où l'on cherche la dorade au milieu du riz par contre un quasi de veau excellent avec des champignons goûteux. Voilà très bon restaurant mais je vous conseille le menu à 31 car je ne vois pas la plus value du menu supérieur. 
+note=3,  label=NEUT
+Res: POS
+[être:1,null:1,pas:1,ne:1,très:1,bon:1,mais:1,plus:1,restaurant:1,bien:1,peu:1,cuisine:1,voir:1,très_bon:1,cher:1,excellent:1,]
+
+
+Une belle carte, de belles assiettes, de bons vins et un serveur très sympa! Et le prix n'est pas excessif ! En résumé, nous avons passé un bon moment.
+note=4,  label=POS
+Res: NEG
+[est:1,null:1,pas:1,ne:1,très:1,bon:1,sympa:1,ne_est:1,est_pas:1,passer:1,]
+
+
+Paris est magnifique à contempler de ce lieu magique, le soir avec les lumières qui s'allument progressivement. Un seul menu, on choisit simplement ses 5 ou 6 plats. Quantité équilibrée pour 5 plats. Une entrée, le plat principal et les 2 desserts étaient bons, rien d'exceptionnel. 2 entrées étaient "tristes"". Service attentionné, bon conseil du sommelier.
+note=3,  label=NEUT
+Res: NEG
+[être:1,est:1,null:1,bon:1,plat:1,entrer:1,]
+
+
+Par dessus tout, la vue est magnifique ! L'atmosphère basse lumière est romantique. Les plats sont bons. Le service est très bien.
+note=4,  label=POS
+Res: NEG
+[être:1,est:1,null:1,très:1,bon:1,plat:1,tout:1,bien:1,voir:1,]
+
+
+Très bien reçu .bistrot sympa .....j ai adoré l entrée ...velouté de légumes au foie gras .....le reste était en retrait selon moi ...un bon moment toutefois....
+note=3,  label=NEUT
+Res: POS
+[être:1,null:1,très:1,bon:1,bien:1,sympa:1,entrer:1,]
+
+
+Intérieur vraiment top
+Rapport qualité prix très décevant
+Videur à l'entrée odieux
+Snikers glacé, effets secondaires indésirables, doute de la chaîne du froid ..
+note=1,  label=NEG
+Res: POS
+[null:1,très:1,vraiment:1,entrer:1,]
+
+
+Samedi, recommandé par une amie qui va régulièrement à midi dans ce restaurant, je suis allée avec un ami et ma fille dans cet établissement en toute confiance. Nous avons été installé en terrasse : temps merveilleux, musique forte et haché mais bon.... tout allait bien quand.... soudain, mon ami a découvert dans sa salade une LIMACE, bien vivante au milieu des feuilles, pour certaines aux bouts noircies ! nous avons immédiatement signalé à la serveuse le problème. Vient pour finir le dessert : 3 boules de glaces où il découvre avec stupéfaction un LONG CHEVEU NOIR !!!! comment est-ce possible ? Nous avons à nouveau signalé le problème à la serveuse. Elle nous a offert 2 cafés ..... JE DECONSEILLE FORTEMENT CE RESTAURANT !!!!
+note=1,  label=NEG
+Res: POS
+[être:1,null:1,bon:1,mais:1,tout:1,restaurant:1,bien:1,aller:1,dessert:1,]
+
+
+Le restaurant plait beaucoup aux enfants car le cadre est superbe et dépaysant et les costumes des serveurs très originaux. Il y a une petite aire de jeux pour les enfants (sans fenêtre/aération... accrochez vous). Sinon c'est TRES cher (ils font payer le cadre bien cher); la nourriture est correcte sans plus
+note=2,  label=NEG
+Res: POS
+[est:1,null:1,très:1,plus:1,restaurant:1,faire:1,bien:1,petit:1,cadre:1,cher:1,correct:1,beaucoup:1,]
+
+
+dans ce restaurant de poison qui joue le grand chic il n ont pas de couvert a poison cherche l erreur .......
+il faut prendre que des crustaces il sont juste a les deposer sur un plateau et ne passe pas par les fourneaux le reste est vraiment nul dans un endroit chic......
+note=2,  label=NEG
+Res: POS
+[être:1,est:1,null:1,pas:1,ne:1,restaurant:1,sur:1,prendre:1,vraiment:1,grand:1,]
+
+
+Cadre de rêve Paris à vos pieds quoi de mieux
+Service sans faute repas superbe saveurs fraîcheurs tout est fait pour que le moment soit inoubliable et Paris à perte de vue 
+C est magique phénoménal 
+Tout cela a un prix il est élevé mais on ne vit qu une fois alors 
+note=5,  label=POS
+Res: NEG
+[être:1,est:1,null:1,ne:1,mais:1,tout:1,faire:1,voir:1,cadre:1,]
+
+
+Restaurant à la décoration chic et sympa avec un serveur agréable et souriant !! Par contre les plats n'était pas terrible même si ils étaient assez élaborer mais avec un manque de goût,les prix sont un peu élevé mais sa reste acceptable. 
+note=3,  label=NEUT
+Res: NEG
+[être:1,null:1,pas:1,ne:1,mais:1,plat:1,restaurant:1,peu:1,même:1,agréable:1,ne_être:1,sympa:1,être_pas:1,]
+
+
+Cadre rustique, haut savoyard quoi ! La cuisine est bonne, gourmande, de qualité, et les desserts (fait maison pour la plupart d'après mes sources) sont meilleurs qu'ailleurs (et ça je peux le certifier en personne) : n'hésitez pas pour découvrir cet endroit.
+note=5,  label=POS
+Res: NEUT
+[être:1,est:1,null:1,pas:1,ne:1,bon:1,faire:1,cuisine:1,pouvoir:1,cadre:1,]
+
+
+Ma femme et moi, amateurs de crêpes, avons été tentés par cette enseigne sur la belle avenue du 8 mai 1945. Bof! de la petite bouffe sans grands risques de nous faire revenir toutes les semaines. Des crêpes "sèches", sans aucun goût, une serveuse peu affable, une addition presque salée. A fuir.
+note=3,  label=NEUT
+Res: POS
+[être:1,null:1,tout:1,faire:1,sur:1,peu:1,petit:1,grand:1,]
+
+
+Cadre vieillot, Cher, cuisine correcte mais misérable
+Service rapide souriant un peu familier 
+Foie gras île déserte perdue au fond de la, assiette
+note=2,  label=NEG
+Res: NEUT
+[null:1,mais:1,peu:1,cuisine:1,cadre:1,correct:1,]
+
+
+Nous avons fêté l'anniversaire de notre petit garçons dans cet établissement. Le cadre est super - idéal pour les enfants. Les plats sont simples mais sans plus. Le rapport qualité prix est un peu élevé.
+note=3,  label=NEUT
+Res: NEG
+[être:1,est:1,null:1,mais:1,plat:1,plus:1,peu:1,petit:1,cadre:1,]
+
+
+Repas en terrasse avec un service efficace. Repas lyonnais avec des petits rognons . Hum! Repas gambas le jeudi à 26.90. Qui dit mieux et si le reps du bistro ne vous plait allez juste en face au happening Time, c'est le même patron
+note=4,  label=POS
+Res: NEG
+[est:1,null:1,ne:1,même:1,petit:1,]
+
+
+Une soirée très décevante: une pizza en entrée à moitié brulée dessous et juste le maître d'hôtel qui va le dire au chef.... ça nous rassure pour les autres!!!l es plats ok et pour le dessert, 2 vacherins commandés: l'un parfait mais dans l'autre pas de glace juste de la chantilly!!!!o n fait une petite réclamation et pas de changement de dessert mais on nous apporte une gauffre pour s'excuser ( et si on n'aime pas les gauffres!!!).
+Quand arrive la note , aucun geste commercial et il a fallu faire une réclamation pour que la pizza soit déduite de l'addition.
+Bref, pas le standing d'une brasserie de Bocuse : les autres adresses sont bien meilleures.
+Mon dernier repas à l'Est 
+note=2,  label=NEG
+Res: NEUT
+[être:1,est:1,null:1,pas:1,ne:1,très:1,mais:1,plat:1,faire:1,bien:1,aller:1,petit:1,dessert:1,autre:1,entrer:1,]
+
+
+Bien pour les enfants Mais cuisine très bas de gamme Rapport qualité prix décevant Le seul point positif est le décor de la salle Cuisine à revoir
+note=1,  label=NEG
+Res: NEUT
+[est:1,null:1,très:1,mais:1,bien:1,cuisine:1,]
+
+
+Plusieurs personnes s'occupent (en partie) des mêmes tables, du coup des plats en retards, des accompagnements qui n'arrivent pas etc... Le personnel a l'air fatigué en fin de service. 
+note=3,  label=NEUT
+Res: NEG
+[null:1,pas:1,ne:1,plat:1,même:1,personnel:1,]
+
+Menu à moins de 20 euros très moyen, pain pas frais et tarte praline indigente. Pot de côte correct.
+note=2,  label=NEG
+Res: POS
+[null:1,pas:1,très:1,correct:1,]
+
+
+Ambiance et cocktails sympas, la déco aussi. Par conte il faudrait revoir un peu la cuisine qui sur la carte laisse présager de gouter de bons plats mais l'ensemble est fade. Dommage. Le Mama pour boire des verres entre amis!!
+note=3,  label=NEUT
+Res: POS
+[est:1,null:1,bon:1,mais:1,plat:1,sur:1,peu:1,cuisine:1,sympa:1,]
+
+
+1h15 d'attente au bar dont 3/4 d'heure avant que quelqu'un s'occupe de nous, puis encore une bonne 1/2 heure d'attente avant de recevoir nos plats qui étaient froids et pas assez cuits alors qu'il était 23h et la salle pratiquement vide!
+Honteux. À éviter! 
+note=1,  label=NEG
+Res: POS
+[être:1,null:1,pas:1,bon:1,plat:1,]
+
+
+Rien n'est parfait et rien n'est horrible...........
+Tout est moyen, le service, la nourriture, les danseuses et le rapport qualité/prix !
+note=3,  label=NEUT
+Res: POS
+[est:1,null:1,ne:1,tout:1,ne_est:1,]
+
+
+Étant de passage à Lyon, on a pu remarquer que c'était bel et bien un attrape touriste, du coup nous étions assez déçue de vouloir goûter dès spécialités pour la première fois et d'être tomber sur bistro Pizai alors qu'il y en a pleins autour.
+note=2,  label=NEG
+Res: POS
+[être:1,null:1,bien:1,sur:1,pouvoir:1,]
+
+
+Restaurant très bien situé en bord de mer qui proposait de très bon plat. Nous avons ensuite été déçus plusieurs fois, il est possible que le chef ait changé depuis...
+note=3,  label=NEUT
+Res: POS
+[être:1,est:1,null:1,très:1,bon:1,plat:1,restaurant:1,bien:1,très_bon:1,]
+
+
+Excellente restaurant je n'ai pas visité la première fois c'était un retour. La cuisine est toujours excellente mais le serviceest un peu long. Steak Chateaubriand comme plat est simplement magnifique. La viande est très tendre. Tout s'est passé très bien jusqu'au moment je veux passer une souris par terre. Bien entendu le serveur se sont excusés en nous offrent un coup de champagne. Le champagne était excellent mets la souris et quand même resté. J'y retournerai certes mais je souhaite quand même voir la cuisine. Je recommande de ne pas voir peur des souris. Un petit point en plus les plans à midi son à un prix très acceptable.
+note=3,  label=NEUT
+Res: NEG
+[être:1,est:1,null:1,pas:1,ne:1,très:1,mais:1,plat:1,tout:1,plus:1,restaurant:1,bien:1,peu:1,cuisine:1,même:1,voir:1,ne_pas:1,petit:1,excellent:1,passer:1,]
+
+
+Nous avions pris l'habitude d'y aller régulièrement jusqu’à cette fois de trop.....Une amie revient des toilettes en disant qu'elles sont sales....:-( Pas top en début de service à midi.....
+Une amie enceinte demande si elle peut changer un aliment dans son plat ==> refus catégorique du serveur...OK..........
+Quand les salades arrivent, on découvre qu'elle s n'ont pas été très bien lavées puisque dans les 3, nous découvrons des habitants.....
+C'était donc la dernière fois......
+note=1,  label=NEG
+Res: POS
+[être:1,null:1,pas:1,ne:1,très:1,plat:1,bien:1,prendre:1,aller:1,trop:1,ne_pas:1,pouvoir:1,être_très:1,donc:1,]
+
+
+Les burgers sont délicieux, les assiettes sont copieuses.. Une chose est sûre, en sortant d'ici, nous n'avons plus faim.
+Petit bémon néanmoins sur la lenteur du service alors qu'il y avait peu de monde.. Nous avons dû nous diriger nous-mêmes vers le bar afin de payer, après une attente de plus de 30mn.. Et les tables sont vraiment trop proches les unes des autres. Mais malgré cela on passe un bon moment.
+note=4,  label=POS
+Res: NEUT
+[être:1,est:1,null:1,ne:1,bon:1,mais:1,plus:1,sur:1,peu:1,trop:1,vraiment:1,petit:1,autre:1,après:1,]
+
+ête des lumières 2014 de Lyon 
+au menu saladier lyonnais: un ridicule morceaux de hareng accompagné de cocos pas assez cuit, et d'une petite cuillère de museau
+l'œuf meurette , déjà cuit depuis des lustres mais sauce chaude et acceptable
+saucisson chaud , presque! accompagné de 3 morceaux de pommes de terre et de la sauce "cervelle des canuts" 
+tete et langue de veau : toujours accompagné des 3 morceaux de pommes de terre ( pas 4 morceaux! ) un peu juste en quantité peut etre , que nous étions en fin de service ! mais les assiettes sont vraiment légère !!
+le tout accompagné d'un beaujolais des plus communs! et de 2 desserts! 
+53€
+mauvais choix de notre part ! faites mieux que nous !!
+note=2,  label=NEG
+Res: NEUT
+[être:1,null:1,pas:1,mais:1,tout:1,plus:1,faire:1,peu:1,vraiment:1,pouvoir:1,petit:1,]
+
+
+Trés bonne surprise de ce restaurant oú nous avons goûter des huîtres fraîches et avec un vrai goût de mer iodé, en plat des linguine aux gambas, avec une sauce au poisson crémeuse parfaite, et un tartare de boeuf et des pommes grenailles à la graisse d'oie qui tient ses promesses. En prime un service rapide, réactif et très chaleureux, nous ne sommes pas de la région mais nous reviendront sans hésiter dans ce restaurant si l'occasion se présente !
+note=5,  label=POS
+Res: NEG
+[être:1,null:1,pas:1,ne:1,très:1,bon:1,mais:1,plat:1,restaurant:1,ne_être:1,être_pas:1,]
+
+
+Service rapide, le personnel est sympathique à votre écoute. Le prix du menu est correct. Les plats sont bons mais pas extraordinaires. Pour vous donnez un exemple, le pavé de saumon trop cuit et la sauce d'accompagnement un drôle de gout, voir indéfinissable...le reste ca va.
+note=3,  label=NEUT
+Res: NEG
+[être:1,est:1,null:1,pas:1,bon:1,mais:1,plat:1,aller:1,trop:1,voir:1,personnel:1,correct:1,]
+
+
+Accueil sympathique, suivi du repas impeccable, menus divers et adapté pour l'ensemble de la famille. Ambiance et complicité avec les serveurs et serveuses. Nous vous recommandons de réserver tout de même. Moment de détente assuré.
+note=4,  label=POS
+Res: NEG
+[null:1,tout:1,même:1,]
+
+
+Restaurant bien décoré, original cet petite terrasse intérieur avec son olivier.
+La carte est plutôt attractives, et les choix dans les menus sont vraiment intéressant. les burgers au blinis sont pas mal. Les assiettes sont bien garnis.
+En ce qui concerne les desserts, il y a de quoi trouver son bonheur pour les petits et grands gourmands. Les pancakes étaient vraiment très bon avec son caramel beurre salé
+note=3,  label=NEUT
+Res: POS
+[être:1,est:1,null:1,pas:1,très:1,bon:1,restaurant:1,bien:1,vraiment:1,très_bon:1,petit:1,être_pas:1,grand:1,]
+
+
+Sans trop se fier aux avis sur le site qui sont pour le moins inegaux, on a voulu tester par nous même ce beau restaurant dans le vieux Bordeaux. Premier point quand on arrive, des grands et vrais sourires et ça, on adore! Une belle variété de plats et suggestions, c'est joli, c'est très bon et original dans la simplicité. Un service pro et super agréable, et vu le monde on n'a finalement pas tant attendu que ça, avec des plats cuisinés à la minute, et ça se sent! Bref, super moment passé chez Mémé et j'y emmenerai plein de monde! 
+note=5,  label=POS
+Res: NEG
+[être:1,est:1,null:1,pas:1,ne:1,très:1,bon:1,plat:1,restaurant:1,sur:1,même:1,trop:1,voir:1,très_bon:1,agréable:1,grand:1,attendre:1,passer:1,]
+
+
+Une cuisine sans fioriture mais régulière. Les gros appétits en ont pour leur argent. Le concept et les plats proposés restent à part sur Valence. Nous y retournons régulateur plaisir.
+
+Visité en août 2016
+note=5,  label=POS
+Res: NEUT
+[null:1,mais:1,plat:1,sur:1,cuisine:1,]
+
+
+J'ai pris le sandwich pita fallafel. Il a vraiment été à la hauteur de mes espérances, même après les nombreux commentaires lus ici. Je pensais manquer de crudités, mais au contraire, ils sont très garnis ! Service sur place correct, ne pas hésiter à demander au serveur pour qu'on vous prenne la commande.
+note=5,  label=POS
+Res: NEG
+[être:1,null:1,pas:1,ne:1,très:1,mais:1,sur:1,même:1,prendre:1,ne_pas:1,vraiment:1,être_très:1,après:1,correct:1,]
+
+Un repas de très bonne qualité avec un service assuré par un personnel compétant et professionnel. Bien qu'un peu cher, la qualité est au rendez vous alors si vous avez envie d'une soirée classe et de qualité, c'est l'endroit pour cela.
+note=5,  label=POS
+Res: NEUT
+[est:1,null:1,très:1,bon:1,bien:1,peu:1,très_bon:1,cher:1,personnel:1,]
+
+
+Pour pourvoir comparer avec des restaurant de même catégorie, le bistrot Gabriel est bon mais moins à mon goût. En effet, les associations restent simples. Le personnel est peu avenant. A le mérite d'avoir une vue et un emplacement de rêve.
+note=4,  label=POS
+Res: NEUT
+[est:1,null:1,bon:1,mais:1,restaurant:1,peu:1,même:1,voir:1,personnel:1,]
+
+
+Ce n'était pas au niveau de la chaîne Maître Kanter. Dans une franchise on devrait avoir un niveau de qualité minimal. Raté.
+
+La choucroute royale avait l'air sympa, mais la viande était dure. Seul le choux était bon.
+On a pris un tartare façon Rossini mais au lieu d'un foie gras poêlé, on a eu une fine tranche de terrine de foie gras. Et la viande était douteuse.
+
+Le tout pour un prix qui nous a semblé élevé.
+
+Cerise sur le gâteau, le patron autorise ses amis à fumer à l'intérieur !
+
+Seuls points positifs, les serveurs sont sympas, le cadre est agréable et le restaurant est bien placé.
+Ça ne suffira pas à me faire revenir. Il y a plein de bons restos dans le centre-ville de Poitiers
+note=1,  label=NEG
+Res: POS
+[être:1,est:1,null:1,pas:1,ne:1,bon:1,mais:1,tout:1,restaurant:1,faire:1,bien:1,sur:1,prendre:1,cadre:1,agréable:1,ne_être:1,sympa:1,être_pas:1,]
+
+
+Déjeuner au bistrot du Gabriel, service moyen, rognon de veau manquant cruellement de cuisson, dessert quelconque, déçu car j'ai un très bon souvenir d'un dîner au gastronomique à l'époque d'Adamski. 
+note=3,  label=NEUT
+Res: POS
+[null:1,très:1,bon:1,très_bon:1,dessert:1,]
+
+
+Probleme d interprétation, st Jacques "fraiche", il faut comprendre "congelées" (il arrive que bien traité cela soit correcte, mais meme pas cette fois ) 30 € le plat !!!!
+Dans un restaurant de coquillages, je trouve cela inadmissible.
+Aucune reaction du responsable de caisse, apres avoir signalé mon grand mécontentement.
+Un gros foutage de gueule !
+note=1,  label=NEG
+Res: NEUT
+[être:1,null:1,pas:1,mais:1,plat:1,restaurant:1,bien:1,grand:1,correct:1,]
+
+
+Habitant Poitiers et ayant mangé plusieurs fois à la taverne de Maître Kanter avec contentement, je propose, un dimanche pluvieux, à ma famille d'aller déjeuner dans ce restaurant.
+Nous sommes dirigés avec politesse par le chef de salle à notre table de 6.
+Nous prenons un apéritif et choisissons nos plats et vins.
+Nous avons tous été satisfaits de nos plats : pour ceux qui ont choisis de la viande, celle-ci était de qualité, tendre et la cuisson demandée respectée. Pour ce qui est de l'accompagnement en pomme de terre ou frites, il pourrait être un peu plus généreux pour les bons mangeurs mais la quantité est loin d'être ridicule. La salade périgourdine choisie par une des convives était très copieuse et très bonne. Pour ceux qui se sont dirigés vers un plat de poisson, ils furent très satisfaits. Le poisson étaient frais.
+Les vins qui nous ont été conseillés étaient parfaitement accordés à nos mets.
+Les desserts ont également satisfaits tout le monde : café gourmand bon mais pas de quoi s'extasier non plus, profiteroles délicieuses, crème brûlée généreuse et appréciée.
+Le service fut assuré par un serveur qui semblait débuté dans le métier mais qui était très attentif à nos besoins et questions et un serveur plus expérimenté qui est toujours très agréable et professionnel.
+Toutefois nous avons été très mal à l'aise face aux réprimandes du chef de salle sur son serveur le plus jeune. Si le chef de salle a besoin de reprendre son serveur c'est une chose mais qu'il le fasse sans retenu devant les clients, non!
+Le serveur découpe les filets d'un de nos plats de poisson comme nous lui avons demandé, il se fait reprendre sans tact devant nous et de ce fait l'autre serveur coupe les filets et nous les apporte très professionnellement mais est ce une situation agréable pour eux aussi?!
+Il fut également repris pour une table mal dressée et bien d'autres choses encore.
+Nous avons signalé aux serveurs notre mécontentement quant à la façon de parler du chef de salle,et nous leur avons souligné que nous étions très contents de leurs prestations. Le message a-t'il été passé? Nous ne savons pas mais en tout cas, le chef de salle s'est montré plus correct et plus discret pour la fin de notre repas.
+En tout cas nous avons été très satisfaits de nos serveurs et de notre repas mais ce moment d'irrespect fut très stressant et un gros point noir de ce moment familial. 
+note=4,  label=POS
+Res: NEG
+[être:1,est:1,null:1,pas:1,ne:1,très:1,bon:1,mais:1,plat:1,tout:1,plus:1,restaurant:1,faire:1,bien:1,sur:1,peu:1,manger:1,prendre:1,aller:1,pouvoir:1,très_bon:1,agréable:1,autre:1,être_très:1,passer:1,correct:1,]
+
+
+Un grand classique Bordelais à l'emplacement exceptionnel.
+La cuisine est inventive et recherchée par un grand chef soucieux de ses produit. On ne peut pas être indifférent à cette cuisine marquée de expérience et de nouveauté.
+Valeur sûre... bien sûr. 
+note=4,  label=POS
+Res: NEG
+[être:1,est:1,null:1,pas:1,ne:1,bien:1,cuisine:1,pouvoir:1,grand:1,]
+
+
+La vue est époustouflante. La cuisine est bonne, mais sans âme. Bien faite mais impersonnelle. Le service lamentable : lent, pompeux et inefficace. C'est fort cher. Même pour une aussi belle vue.
+note=3,  label=NEUT
+Res: NEG
+[est:1,null:1,bon:1,mais:1,faire:1,bien:1,cuisine:1,même:1,voir:1,cher:1,]
+
+
+En dehors d'un prix à considérer, le cadre rappel dans équivoque les parcs d'attractions les plus connus. L'équipe, grimée aux allures de pirate apporte un côté atypique et fort sympathique. Un peu bruyant par forte affluence, l'endroit reste séduisant et au top pour les enfants
+note=4,  label=POS
+Res: NEUT
+[null:1,plus:1,peu:1,cadre:1,]
+
+
+Nous avons décidé de passer une soirée entre amies au comptoir...
+Quelle déception! Attente énorme pour être servi, show identique à tous les autres Resto de Marrakech et surtout des tarifs exorbitants !
+Cet endroit vit sur sa réputation...
+note=3,  label=NEUT
+Res: NEG
+[être:1,null:1,tout:1,sur:1,servir:1,autre:1,passer:1,]
+
+
+nous avons été extrêmement déçus par ce restaurant pourtant étoilé et ayant comme chef Alain Ducasse. 
+La vue et le cadre de la tour Eiffel restent splendides.
+En revanche dès notre arrivée dans le restaurant, nous avons pu constaté une vaisselle très abimée, tous les plats étaient fades, le tout pour 200 euros par personne.
+Le service reste agréable, mais manque de rigueur au vue du niveau prétendu de l'établissement.
+Le sommelier en revanche est de bon conseil et le vin servi fut une agréable découverte.
+Et pour finir le voiturier nous annonce qu'il a eu un accrochage avec la voiture.
+note=2,  label=NEG
+Res: POS
+[être:1,est:1,null:1,très:1,bon:1,mais:1,plat:1,tout:1,restaurant:1,voir:1,pouvoir:1,servir:1,cadre:1,agréable:1,]
+
+
+C'était une première fois, et une excellente première fois ! Sur quatre personnes à avoir manger l'un de ces falafel, un seul n'a pas aimé, les autres ont été conquit !
+note=4,  label=POS
+Res: NEG
+[être:1,null:1,pas:1,ne:1,sur:1,manger:1,ne_pas:1,excellent:1,autre:1,]
+
+
+Bon accueil mais la viande était très dure...
+Le service est très long, nous sommes partie sans dessert car plus assez de temps pour le manger.
+note=3,  label=NEUT
+Res: NEG
+[être:1,est:1,null:1,très:1,bon:1,mais:1,plus:1,manger:1,dessert:1,être_très:1,]
+
+
+Emplacement et cadre parfait , les plats et desserts sont bon mais le prix reste excessif service rapide et serveuse souriante un moment agréable mais la note reste salé.
+note=3,  label=NEUT
+Res: POS
+[être:1,null:1,bon:1,mais:1,plat:1,cadre:1,agréable:1,]
+
+
+Je m'attendais à mieux en lisant le menu sur internet. Les plats sont bons, faits maison, certes, mais pas à la hauteur de mes attentes, surtout vu le prix. De plus ils sont mal présentés, ce qui gâche un peu le plaisir. Service très alerte; repas bouclé en 1 heure ! Il faut dire aussi qu'on était les seuls dans la salle...
+Et côté décor, peut mieux faire.
+note=3,  label=NEUT
+Res: NEG
+[être:1,null:1,pas:1,très:1,bon:1,mais:1,plat:1,plus:1,faire:1,sur:1,peu:1,voir:1,pouvoir:1,attendre:1,]
+
+
+Mr Ducasse aux manettes pour un plaisir des papilles !! Des mets succulents et un service 5 étoiles. Petit plus avec la vue sur les cuisines des l'entrée du restaurant A faire en soirée pour une vue imprenable sur Paris.
+note=5,  label=POS
+Res: NEG
+[null:1,plus:1,restaurant:1,faire:1,sur:1,cuisine:1,voir:1,petit:1,entrer:1,]
+
+
+Bon rapport qualité prix. Menu à 27€ entrée plat dessert très copieux. Carte variée. Service un peu speed mais sympa. Avec une mention particulière pour le nougat glacé.
+
+Visité en août 2016
+note=4,  label=POS
+Res: NEUT
+[null:1,très:1,bon:1,mais:1,plat:1,peu:1,dessert:1,sympa:1,entrer:1,]
+
+
+Nous avons été super bien accueillis et super bien servis !
+MAIS malheureusement nous avons commander 2 choucroutes de la mer et le plat était tellement conséquent en choux que nous n'avons pas eu le courage de terminer !
+Tout ce qui repart en cuisine est jeter sans regret et ça c'est vraiment malheureux!
+Au lieu de faire de la quantité Monsieur KANTER pensez à faire de la qualité! 
+note=3,  label=NEUT
+Res: NEG
+[être:1,est:1,null:1,pas:1,ne:1,mais:1,plat:1,tout:1,faire:1,bien:1,cuisine:1,ne_pas:1,vraiment:1,servir:1,]
+
+
+Accueil qualité et fraîcheur des produits une des meilleure bouillabaisse que j ai mangé à consommé sans modération!!!!
+note=4,  label=POS
+Res: NEG
+[null:1,manger:1,]
+
+
+Un rapport qualité / prix très moyen et un accueil décevant surtout si vous réservez avec Groupon. C'est dommage!
+note=2,  label=NEG
+Res: POS
+[est:1,null:1,très:1,]
+
+
+Ce restaurant propose de bons plats locaux, les plateaux de coquillages sont copieux et frais. Le service fait malheureusement défaut, faute d'organisation. Par ailleurs, le cadre est agréable si vous allez y dîner en été.
+note=3,  label=NEUT
+Res: POS
+[être:1,est:1,null:1,bon:1,plat:1,restaurant:1,faire:1,cadre:1,agréable:1,]
+
+
+Très pratique pour un bon déjeuner entres amis .
+Cuisine Rapide, précise, comme les autres brasseries du groupe Bocuse. Carte coût élevé.
+Bruit en salle pénible, quel dommage ! 
+note=4,  label=POS
+Res: NEG
+[null:1,très:1,bon:1,cuisine:1,autre:1,entrer:1,]
+
+
+Un lundi soir entre amis.... Du jamais vu un accueil inexistant et déplorable.... Limite L hésitation de repartir... nous aurions du... Le comble c qu a 20h50 alors que nous étions à peine arrivés ( 5mn Max ) et que nous avions tout juste notre apéro, le 2 eme serveur arrive pour nous demander de vite choisir car le Cuisto coupe dans 20mn.... Euhhh pardon?! Sommes Ns bien en saison estivale un mois d août?! 30mn plus tard les serveurs accueillaient encore... Sans aucun sourire évidemment.... Quant au repas ( passe au second plan du coup ) du plus que banal.... Insipide pour moi... Une ratatouille huileuse... Du fait maison de mamie à la cantine... Nous sommes loin d être des touristes nous voulions juste passer une bonne soirée conviviale entre amis... Nous avons fini la soirée chez le glacier du coin à 22h ravis de nous accueillir... Oops j oubliais 20/20 sur L entrecôte par contre ! mais mieux vaut aller à la brasserie du coin... Conclusion---> FUYEZ....
+
+Visité en août 2016
+note=1,  label=NEG
+Res: POS
+[être:1,null:1,bon:1,mais:1,tout:1,plus:1,faire:1,bien:1,sur:1,aller:1,voir:1,passer:1,]
+
+
+Cuisine banale, je fais mieux chez moi, pas très fin. Et surtout le serveur semblait très pressé : à peine il nous avait donné la carte qu'il demandait si nous avions choisi, il desservait à peine l'assiette terminée... Il espérait faire un 2ème service ou voulait aller se coucher ?...assez désagréable
+note=3,  label=NEUT
+Res: NEG
+[null:1,pas:1,très:1,faire:1,cuisine:1,aller:1,]
+
+
+Le cadre est très sympa, service efficace. Dommage cote de cochon trop cuite et entrées fade. Nos reviendrons malgré tout pour tester le menu gambas à volonté le jeudi soir.
+note=3,  label=NEUT
+Res: NEG
+[est:1,null:1,très:1,tout:1,trop:1,cadre:1,sympa:1,entrer:1,]
+
+
+Service accueillant et efficace Mention spéciale pour les crustacés notamment les huîtres de Camargue. Petit bémol ce soir là, un des serveurs qui se trompe dans les commandes à 2 reprises et nous donne des plats plus cher ( 2 plats comportant de la daurade mais pas au même prix) que nous avons constatés au moment de l'addition. Malgré cela le Roy René reste un très bon restaurant de coquillages et poissons.
+note=4,  label=POS
+Res: NEUT
+[null:1,pas:1,très:1,bon:1,mais:1,plat:1,plus:1,restaurant:1,même:1,très_bon:1,petit:1,cher:1,]
+
+Nous nous sommes rendu dans cet etablissement en ayant quelques idées quand aux différentes brasseries que nous avions faites précédement dans le périmètre lyonnais et nottament quelques concurents très connu de Georges Blanc et c'est avec une innatendue surprise que nous sommes sorti du Centre By Georges . En effet dès l'accueil de Mathilde et son sourire nous nous sommes senti en terre chaleureuse, les tables sont plutôt éloignées et la carte est attractive même si mon bémol se trouve sur celle des desserts qui est pour moi assez cher et classique . Finalement nous n'en avons pas prit nottament du au fait que un certain julien Chef de Rang nous a conseillé avec brio et gourmandise. Le sublime paté Croute maison, le fameux Chateaubriand, la délicate souris d'agneau ont sublimé notre soirée avec cette équipe de Salle fabuleuse. Le tout accompagné vineusement par les idées du Sommelier très attaché à sa région le Beaujolais et qui possède quelques trésors cachés.
+Avec plaisir nous reviendrons se délecter...
+note=5,  label=POS
+Res: NEG
+[être:1,est:1,null:1,pas:1,ne:1,très:1,tout:1,faire:1,sur:1,même:1,prendre:1,ne_pas:1,cher:1,]
+
+
+Ce restaurant fait tellement de bruit qu'il fallait le tenter. Pas de surprises. Falafels à la hauteur, il n'y a pas à dire. Ensuite 2 choix : soit le sandwich pita, classique mais bon. Soit l'assiette. Basique. Bref étape sympa entre copains dans un quartier sympa. On y trouve exactement ce qu'on est venu chercher.
+note=4,  label=POS
+Res: NEG
+[être:1,est:1,null:1,pas:1,ne:1,bon:1,mais:1,restaurant:1,faire:1,ne_pas:1,sympa:1,]
+
+
+Restaurant élégant et classieux qui n'est pas le piège à touriste que l'on pourrait craindre. A Ducasse a magnifiquement repris en main la cuisine et le service est absolument irréprochable; Une expérience à vivre au moins une fois dans sa vie. Carte des vins très fournie, où les prix les plus délirants côtoient les bonnes surprises (ne parlons pas de "bonne affaire" car ici tout est nécessairement cher). Donc oui, c'est cher, c'est un fait. Mais le prix n'est pas exagéré par rapport à d'autres maisons d'un niveau de cuisine comparable, et on paye aussi l'emplacement. Au moins, il n'y a aucune fausse note, donc on en a pour son argent.
+note=5,  label=POS
+Res: NEUT
+[est:1,null:1,pas:1,ne:1,très:1,bon:1,mais:1,tout:1,plus:1,restaurant:1,faire:1,cuisine:1,pouvoir:1,cher:1,ne_est:1,est_pas:1,autre:1,donc:1,]
+
+
+Bonjour , pour la vue une fois assis on voit au loin la mer , le plat du jour correct pour plus de 17,50 on compte les noix de st Jacques ,le verre de vin on vous donne pas le choix on vous apporte du cassis bodin à 5,90 le verre pour vous trempé les lèvres ,pour le dessert très bon avec un cheveux dedans pour le meilleur pâtissier de France il y a mieux moins cher à 7,50 le gâteaux ,au moment de addition pas de geste commercial pour l'incident du gâteau au moins les cafés, enfin on est très loin d'une région qui se trouve en Andalousie ou la bas on paye pas le soleil et la mer
+Merci
+note=3,  label=NEUT
+Res: NEG
+[être:1,est:1,null:1,pas:1,très:1,bon:1,plat:1,plus:1,voir:1,très_bon:1,dessert:1,cher:1,correct:1,]
+
+
+Lors de mon passage à Poitiers, j'ai essayé le resto Maitre Kanter parce il y avait un comptoir de crustacés. Le plateau était bien présenté et succulent. Par contre le pavé de boeuf de ma femme était infect. (trop cuit et drole d'odeur) suite à la réclamation le pavé était bon. Le comble, je suis arrivé au resto à 19 h30 et je suis sorti à minuit (avec simplement 1 apero, 1 plat et 1 café chacun). 
+note=3,  label=NEUT
+Res: POS
+[être:1,null:1,bon:1,plat:1,bien:1,trop:1,]
