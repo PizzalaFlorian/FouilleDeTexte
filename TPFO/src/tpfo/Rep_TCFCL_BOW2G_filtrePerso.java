@@ -4,10 +4,10 @@ import java.util.Arrays;
 import java.util.List;
 
 public class Rep_TCFCL_BOW2G_filtrePerso extends Rep {
-	static List<String> catsToKeep = new ArrayList<>(Arrays.asList("v", "adj", "adv", "advneg", "clneg"));
+	static List<String> catsToKeep = new ArrayList<>(Arrays.asList("v","n", "adj", "adv", "advneg", "clneg"));
 			//    ("n", "v", "adj", "adv", "advneg)", "clneg")
 		static List<String> lemmasToIgnore = new ArrayList<>(Arrays.asList(
-		"être", "bref", "haut", "résultat", "oriental", "annoncer", "trop_cuire",
+		"être","est", "bref", "haut", "résultat", "oriental", "annoncer",// "trop_cuire",
 		"cela", "avant",
 		"bientôt", "menu", "autre", 
 		"soir", "arrivé", "là", 
@@ -15,13 +15,16 @@ public class Rep_TCFCL_BOW2G_filtrePerso extends Rep {
 		"frire", "point", "mettre", 
 		"café", "tartare", "chocolat", 
 		"lors", "fille", "sucrer",
-		"gâteau", "menu_enfant", "boeuf", 
+		"gâteau","menu_enfant", "boeuf", 
 		"lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche", 
 		"paver", "cerise", 
-		//"plat",//retrait perso
+		//retrait perso
 		"restaurant",
 		"table",
-		"cadre","dessert","viande"//0.7282
+		"cadre",
+		"dessert",
+		"viande"//0.7282
+		,"avec"//0.7382
 		));
 		
 		Tokenizer tokenizer;
