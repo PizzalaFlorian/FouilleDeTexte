@@ -34,12 +34,7 @@ public class NN_H05sigmoidH01sigmoidH01rampH01ramp extends NN {
         net.addLayer(new BasicLayer(sigmoid, true, (int) (inputSize*0.1)));
         net.addLayer(new BasicLayer(ramp, true, (int) (inputSize*0.1)));
         net.addLayer(new BasicLayer(ramp, true, (int) (inputSize*0.1)));
-        
-//         net.addLayer(new BasicLayer(ramp, true, (int) (inputSize*0.1)));
-//        net.addLayer(new BasicLayer(ramp, true, (int) (inputSize*0.1)));
-        //net.addLayer(new BasicLayer(sigmoid, true, (int) (inputSize*0.1)));
-
-       
+          
         // ouput layer 
         net.addLayer(new BasicLayer(softmax, false, outputSize));
         // finaliser la création du RN

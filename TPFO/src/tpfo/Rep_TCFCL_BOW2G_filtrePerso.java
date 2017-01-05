@@ -7,7 +7,7 @@ public class Rep_TCFCL_BOW2G_filtrePerso extends Rep {
 	static List<String> catsToKeep = new ArrayList<>(Arrays.asList("v","n", "adj", "adv", "advneg", "clneg"));
 			//    ("n", "v", "adj", "adv", "advneg)", "clneg")
 		static List<String> lemmasToIgnore = new ArrayList<>(Arrays.asList(
-		"être","est", "bref", "haut", "résultat", "oriental", "annoncer",// "trop_cuire",
+		"être","est", "bref", "haut", "résultat", "oriental", "annoncer",
 		"cela", "avant",
 		"bientôt", "menu", "autre", 
 		"soir", "arrivé", "là", 
@@ -35,6 +35,14 @@ public class Rep_TCFCL_BOW2G_filtrePerso extends Rep {
 		this.tokenizer = tokenizer;
 		this.lex = lex;
 		this.fset = new FeatureSet();
+		}
+		
+		public Rep_TCFCL_BOW2G_filtrePerso(Tokenizer tokenizer, Lexicon lex, int maxSize, int minCount,String word) {
+			super(tokenizer, lex, maxSize, minCount);
+			this.tokenizer = tokenizer;
+			this.lex = lex;
+			this.fset = new FeatureSet();
+			Rep_TCFCL_BOW2G_filtrePerso.lemmasToIgnore.add(word);
 		}
 		
 		@Override
